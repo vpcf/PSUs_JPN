@@ -13,8 +13,8 @@ $rawtext[0] = $rawtext[0] | ForEach-Object {
        -replace "secondary electrolytic caps brand", "2次側液体Caps" `
        -replace "secondary solid caps brand", "2次側固体Caps" `
        -replace "modular board caps", "プラグイン基板Caps" `
-       -replace "fan", "ファン" `
        -replace "fanless mode", "ファンレス" `
+       -replace "fan", "ファン" `
        -replace "note", "備考" `
        -replace "review/image_", "画像等"
 }
