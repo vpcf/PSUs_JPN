@@ -40,8 +40,8 @@ $content = $rawtext | ForEach-Object {
 #リンクテキスト
 $content | ForEach-Object {
     $_.name = "[[$($_.name):$($_.link)]]"
-    $_."2次側液体Caps" = $_."2次側液体Caps" -replace "/(?!a)", " / "
-    $_."2次側固体Caps" = $_."2次側固体Caps" -replace "/(?!a)", " / "
+    $_."2次側液体Caps" = $_."2次側液体Caps" -creplace "/(?!a)", " / "
+    $_."2次側固体Caps" = $_."2次側固体Caps" -creplace "/(?!a)", " / "
     $_."プラグイン基板Caps" = $_."プラグイン基板Caps" -replace "/(?!a)", " / "
     $_."画像等1" = if($_."画像等1" -ne "-"){"[[link:$($_."画像等1")]]"}
     $_."画像等2" = if($_."画像等2" -ne "-"){"[[link:$($_."画像等2")]]"}
