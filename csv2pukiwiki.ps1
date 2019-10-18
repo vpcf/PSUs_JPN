@@ -37,12 +37,16 @@ $content = $rawtext | ForEach-Object {
        -replace "unknown", "不明" `
 } | ConvertFrom-Csv
 
-#リンクテキスト
 $content | ForEach-Object {
+    #製品リンク生成
     $_.name = "[[$($_.name):$($_.link)]]"
+
+    #値の置き換えと整形
     $_."2次側液体Caps" = $_."2次側液体Caps" -creplace "/(?!a)", " / "
     $_."2次側固体Caps" = $_."2次側固体Caps" -creplace "/(?!a)", " / "
     $_."プラグイン基板Caps" = $_."プラグイン基板Caps" -replace "/(?!a)", " / "
+
+    #画像リンク生成
     $_."画像等1" = if($_."画像等1" -ne "-"){"[[link:$($_."画像等1")]]"}
     $_."画像等2" = if($_."画像等2" -ne "-"){"[[link:$($_."画像等2")]]"}
     $_."画像等3" = if($_."画像等3" -ne "-"){"[[link:$($_."画像等3")]]"}
@@ -51,6 +55,7 @@ $content | ForEach-Object {
 
 $content = $content | Select-Object * -ExcludeProperty "price", "link"
 
+#pukiwiki記法テーブルへ変換
 $csv = $content | 
     ConvertTo-Csv -Delimiter "|" -NoTypeInformation |
     ForEach-Object {$_ -replace '"', ""}
