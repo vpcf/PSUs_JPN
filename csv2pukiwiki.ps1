@@ -29,6 +29,7 @@ $content = $rawtext | ForEach-Object {
        -replace "Active-Clamp", "ｱｸﾃｨﾌﾞｸﾗﾝﾌﾟ" `
        -replace "half-bridge", "ﾊｰﾌﾌﾞﾘｯｼﾞ" `
        -replace "full-bridge", "ﾌﾙﾌﾞﾘｯｼﾞ" `
+       -replace "Semi-synchronous Rectification", "準同期整流" `
        -replace "Synchronous Rectification", "同期整流" `
        -replace "Passive Rectification", "ﾀﾞｲｵｰﾄﾞ整流" `
        -replace "Group Regulation", "12V/5V一括制御" `
