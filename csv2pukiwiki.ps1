@@ -1,7 +1,8 @@
 ﻿$rawtext = Get-Content ".\under_10000yen_PSUs.csv"
 
 $rawtext[0] = $rawtext[0] | ForEach-Object {
-    $_ -replace "form factor", "規格" `
+    $_ -replace "status", "※" `
+       -replace "form factor", "規格" `
        -replace "depth", "奥行" `
        -replace "modular(?!\s)", "ｹｰﾌﾞﾙ" `
        -replace "EPS8pin", "EPS 8pin" `
@@ -20,7 +21,8 @@ $rawtext[0] = $rawtext[0] | ForEach-Object {
 }
 
 $content = $rawtext | ForEach-Object {
-    $_ -replace "Not Certified", "未取得" `
+    $_ -replace "discontinued", "終売" `
+       -replace "Not Certified", "未取得" `
        -replace "single sided", "片面"`
        -replace "double sided", "両面"`
        -replace "double forward", "ﾀﾞﾌﾞﾙﾌｫﾜｰﾄﾞ" `
@@ -35,6 +37,12 @@ $content = $rawtext | ForEach-Object {
        -replace "九州阳光电源", "九州陽光電源" `
        -replace "japanese", "日本メーカー" `
        -replace "unknown", "不明" `
+       -replace "JunFu", "&#x4a;unFu" `
+       -replace "HongHua", "&#x48;ongHua" `
+       -replace "MasterWatt", "&#x4d;asterWatt" `
+       -replace "CapXon", "&#x43;apXon" `
+       -replace "XinHuiYuan", "&#x58;inHuiYuan" `
+       -replace "KuangJin", "&#x4b;uangJin" `
 } | ConvertFrom-Csv
 
 $content | ForEach-Object {
@@ -46,11 +54,11 @@ $content | ForEach-Object {
     $_."2次側固体Caps" = $_."2次側固体Caps" -creplace "/(?!a)", " / "
     $_."プラグイン基板Caps" = $_."プラグイン基板Caps" -replace "/(?!a)", " / "
 
-    #画像リンク生成
-    $_."画像等1" = if($_."画像等1" -ne "-"){"[[link:$($_."画像等1")]]"}
-    $_."画像等2" = if($_."画像等2" -ne "-"){"[[link:$($_."画像等2")]]"}
-    $_."画像等3" = if($_."画像等3" -ne "-"){"[[link:$($_."画像等3")]]"}
-    $_."画像等4" = if($_."画像等4" -ne "-"){"[[link:$($_."画像等4")]]"}
+    #画像リンク生成 ※URLがある場合リンク化し、「-」の場合空欄にする
+    $_."画像等1" = if($_."画像等1" -ne "-"){"[[link:$($_."画像等1")]]"}else{""}
+    $_."画像等2" = if($_."画像等2" -ne "-"){"[[link:$($_."画像等2")]]"}else{""}
+    $_."画像等3" = if($_."画像等3" -ne "-"){"[[link:$($_."画像等3")]]"}else{""}
+    $_."画像等4" = if($_."画像等4" -ne "-"){"[[link:$($_."画像等4")]]"}else{""}
 }
 
 $content = $content | Select-Object * -ExcludeProperty "price", "link"
