@@ -42,7 +42,7 @@ $content = $rawtext | ForEach-Object {
        -replace "HongHua", "&#x48;ongHua" `
        -replace "MasterWatt", "&#x4d;asterWatt" `
        -replace "CapXon", "&#x43;apXon" `
-       -replace "XinHuiYuan", "&#x58;inHuiYuan" `
+       -replace "XinHuiYuan", "Xin&#x48;uiYuan" `
        -replace "KuangJin", "&#x4b;uangJin" `
 } | ConvertFrom-Csv
 
