@@ -34,7 +34,7 @@ $content = $rawtext | ForEach-Object {
        -replace "Passive Rectification", "ﾀﾞｲｵｰﾄﾞ整流" `
        -replace "Group Regulation", "12V/5V一括制御" `
        -replace "Group\(5V/3\.3V\) Regulation", "5V/3.3V一括制御" `
-       -replace "鑫", "(金金金)" `
+       -replace "鑫晖源", "(金金金)暉源" `
        -replace "九州阳光电源", "九州陽光電源" `
        -replace "japanese", "日本メーカー" `
        -replace "unknown", "不明" `
