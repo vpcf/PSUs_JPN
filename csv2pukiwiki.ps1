@@ -72,5 +72,4 @@ $csv = $content |
 $csv = $csv -replace "^(.+)$", '|$1|'
 $csv[0] = $csv[0] + "h"
 
-#Set-Content -Path ".\under_10000yen_PSUs_pukiwiki.txt" -Value $csv -Encoding "Default"
 [System.IO.File]::WriteAllLines(".\under_10000yen_PSUs_pukiwiki.txt", $csv, $(New-object System.Text.UTF8Encoding))
