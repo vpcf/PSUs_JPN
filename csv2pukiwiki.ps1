@@ -1,4 +1,4 @@
-﻿$rawtext = Get-Content ".\under_10000yen_PSUs.csv"
+﻿$rawtext = Get-Content $Args[0]
 
 $rawtext[0] = $rawtext[0] | ForEach-Object {
     $_ -replace "status", "※" `
@@ -72,4 +72,5 @@ $csv = $content |
 $csv = $csv -replace "^(.+)$", '|$1|'
 $csv[0] = $csv[0] + "h"
 
-[System.IO.File]::WriteAllLines(".\under_10000yen_PSUs_pukiwiki.txt", $csv, $(New-object System.Text.UTF8Encoding))
+$out_pass = $Args[0] -replace ".csv", "_pukiwiki.txt"
+[System.IO.File]::WriteAllLines($out_pass, $csv, $(New-object System.Text.UTF8Encoding))
