@@ -1,78 +1,82 @@
 ﻿status,brand,name,link,80PLUS,form factor,depth,modular,EPS8pin,OEM,platform,pcb,primary topology,primary cap(s) brand,secondary side topology,secondary electrolytic caps brand,secondary solid caps brand,modular board caps,fan,fanless mode,note,review/image_1,review/image_2,review/image_3,review/image_4
-,ADATA,XPG CORE REACTOR COREREACTOR650G-BKCJP,https://kakaku.com/item/K0001318575/,Gold,ATX,140,full,x2,CWT,,,,,,,,,,,,,,,
-,ADATA,XPG CORE REACTOR COREREACTOR750G-BKCJP,https://kakaku.com/item/K0001318576/,Gold,ATX,140,full,x2,CWT,,,,,,,,,,,,,,,
-,ADATA,XPG CORE REACTOR COREREACTOR850G-BKCJP,https://kakaku.com/item/K0001318577/,Gold,ATX,140,full,x2,CWT,,,,,,,,,,,,,,,
-,ADATA,XPG PYLON 450W,https://kakaku.com/item/K0001383670/,Bronze,ATX,140,fixed,x1,CWT,,,,,,,,,,,,,,,
-,ADATA,XPG PYLON 550W,https://kakaku.com/item/K0001383671/,Bronze,ATX,140,fixed,x1,CWT,,,,,,,,,,,,,,,
-,ADATA,XPG PYLON 650W,https://kakaku.com/item/K0001383672/,Bronze,ATX,140,fixed,x1,CWT,,,,,,,,,,,,,,,
-,ADATA,XPG PYLON 750W,https://kakaku.com/item/K0001383673/,Bronze,ATX,140,fixed,x1,CWT,,,,,,,,,,,,,,,
+,ADATA,XPG CORE REACTOR COREREACTOR650G-BKCJP,https://kakaku.com/item/K0001318575/,Gold,ATX,140,full,x2,CWT,CWT CSE,double sided,half-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,ADATA,XPG CORE REACTOR COREREACTOR750G-BKCJP,https://kakaku.com/item/K0001318576/,Gold,ATX,140,full,x2,CWT,CWT CSE,double sided,half-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,https://www.tomshardware.com/reviews/xpg-core-reactor-750w-power-supply-review,,,
+,ADATA,XPG CORE REACTOR COREREACTOR850G-BKCJP,https://kakaku.com/item/K0001318577/,Gold,ATX,140,full,x2,CWT,CWT CSE,double sided,half-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,ADATA,XPG PYLON 450W,https://kakaku.com/item/K0001383670/,Bronze,ATX,140,fixed,x1,CWT,CWT CSB,single sided,double forward,,Passive Rectification + DC/DC,,,,,,,https://webapi3.adata.com/storage/ProductGallery/productGallery233.png,,,
+,ADATA,XPG PYLON 550W,https://kakaku.com/item/K0001383671/,Bronze,ATX,140,fixed,x1,CWT,CWT CSB,single sided,double forward,,Passive Rectification + DC/DC,,,,,,,https://webapi3.adata.com/storage/ProductGallery/productGallery233.png,,,
+,ADATA,XPG PYLON 650W,https://kakaku.com/item/K0001383672/,Bronze,ATX,140,fixed,x1,CWT,CWT CSB,single sided,double forward,chemi-con 105c 2000h(KMW),Passive Rectification + DC/DC,,,,,,,https://www.tomshardware.com/reviews/xpg-pylon-650w-power-supply-review,https://webapi3.adata.com/storage/ProductGallery/productGallery233.png,,
+,ADATA,XPG PYLON 750W,https://kakaku.com/item/K0001383673/,Bronze,ATX,140,fixed,x1,CWT,CWT CSB-A,single sided,double forward,chemi-con 105c 2000h(KMW),Semi-synchronous Rectification + DC/DC,,,,,,,https://www.techpowerup.com/review/adata-xpg-pylon-750-w/3.html,https://webapi3.adata.com/storage/ProductGallery/productGallery233.png,https://ascii.jp/elem/000/004/073/4073077/,
 discontinued,Andyson,PROMINER GM1200,https://kakaku.com/item/K0001022613/,Not Certified,ATX,230,fixed,x2,Andyson,unknown,single sided,double forward,Teapo 85c,unknown,JunFu 105c,unknown,n/a,POWERYEAR PY-8025H12B*2,n/a,-,https://review.kakaku.com/review/K0001022613/ReviewCD=1211385/,-,-,-
 ,ANTEC,NeoECO Classic NE550C,https://kakaku.com/item/K0000710141/,Bronze,ATX,140,fixed,x1,Andyson,(Rosewill Glacier),single sided,double forward,Hitachi 105c,Passive Rectification + Group Regulation,chemi-con/nichicon 105c,n/a,n/a,Globe Fan B1202512L,n/a,前期品はCWT GPK,https://quasarzone.co.kr/bbs/board.php?bo_table=qc_user&wr_id=11417,https://www.f14lab.com/2020/04/review-antec-neo-eco-c-550w-v2.html,-,-
 ,ANTEC,NeoECO Classic NE650C,https://kakaku.com/item/K0000710142/,Bronze,ATX,140,fixed,x1,Andyson,(Rosewill Glacier),single sided,double forward,nichicon 105c,Passive Rectification + Group Regulation,chemi-con/nichicon 105c,n/a,n/a,Globe Fan B1202512L,n/a,前期品はCWT GPK,http://blog.daum.net/_blog/BlogTypeView.do?blogid=0E8nf&articleno=11733231&categoryId=696340&regdt=20170930192544,http://supermodel.blog.jp/archives/68662778.html,https://post.naver.com/viewer/postView.nhn?volumeNo=20204143&memberNo=25001598,-
-,ANTEC,NeoECO Gold NE550G,https://kakaku.com/item/K0001019732/,Gold,ATX,140,semi,x1,Seasonic,Seasonic Focus Gold,double sided,full-bridge LLC,japanese 105c,Synchronous Rectification + DC/DC,chemi-con 105c,chemi-con,FPCAP/Enesol,HongHua HA1225H12S-Z,n/a,-,https://www.coolaler.com/threads/antec-neoeco-gold-550w.348327/,-,-,-
-,ANTEC,NeoECO Gold NE650G,https://kakaku.com/item/K0001019733/,Gold,ATX,140,semi,x1,Seasonic,Seasonic Focus Gold,double sided,full-bridge LLC,japanese 105c,Synchronous Rectification + DC/DC,chemi-con 105c,chemi-con,FPCAP/Enesol,HongHua HA1225H12S-Z,n/a,-,https://www.xfastest.com/forum.php?mod=viewthread&tid=203752&cp=4,https://twitter.com/Yacamochi_db/status/1220946935713914880,-,-
-,ANTEC,NeoECO Gold NE750G,https://kakaku.com/item/K0001019734/,Gold,ATX,140,semi,x2,Seasonic,Seasonic Focus Gold,double sided,full-bridge LLC,japanese 105c,Synchronous Rectification + DC/DC,chemi-con 105c,chemi-con,FPCAP/Enesol,HongHua HA1225H12S-Z,n/a,-,https://wolflsi.pixnet.net/blog/post/66209493-antec-neoeco-gold%E7%B3%BB%E5%88%97750w%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8%E7%B0%A1%E4%BB%8B%E5%8F%8A%E6%B8%AC%E8%A9%A6,https://twitter.com/Yacamochi_db/status/1220947061572374530,-,-
+,ANTEC,NeoECO Gold NE550G,https://kakaku.com/item/K0001019732/,Gold,ATX,140,semi,x1,Seasonic,Seasonic Focus GM,double sided,full-bridge LLC,japanese 105c,Synchronous Rectification + DC/DC,chemi-con 105c,chemi-con,FPCAP/Enesol,HongHua HA1225H12S-Z,n/a,-,https://www.coolaler.com/threads/antec-neoeco-gold-550w.348327/,-,-,-
+,ANTEC,NeoECO Gold NE650G,https://kakaku.com/item/K0001019733/,Gold,ATX,140,semi,x1,Seasonic,Seasonic Focus GM,double sided,full-bridge LLC,japanese 105c,Synchronous Rectification + DC/DC,chemi-con 105c,chemi-con,FPCAP/Enesol,HongHua HA1225H12S-Z,n/a,-,https://www.xfastest.com/forum.php?mod=viewthread&tid=203752&cp=4,https://twitter.com/Yacamochi_db/status/1220946935713914880,-,-
+,ANTEC,NeoECO Gold NE750G,https://kakaku.com/item/K0001019734/,Gold,ATX,140,semi,x2,Seasonic,Seasonic Focus GM,double sided,full-bridge LLC,japanese 105c,Synchronous Rectification + DC/DC,chemi-con 105c,chemi-con,FPCAP/Enesol,HongHua HA1225H12S-Z,n/a,-,https://wolflsi.pixnet.net/blog/post/66209493-antec-neoeco-gold%E7%B3%BB%E5%88%97750w%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8%E7%B0%A1%E4%BB%8B%E5%8F%8A%E6%B8%AC%E8%A9%A6,https://twitter.com/Yacamochi_db/status/1220947061572374530,-,-
 discontinued,ANTEC,VP550 Plus JP,https://kakaku.com/item/K0001110032/,Standard,ATX,140,fixed,x1,Andyson,unknown,unknown,unknown,unknown,unknown,n/a,n/a,n/a,POWERYEAR?,n/a,-,-,-,-,-
-,ANTEC,NeoECO Gold NE650G M,https://kakaku.com/item/K0001358284/,Gold,ATX,140,full,x2,HELLY,,,,,,,,,,,,,,,
-,ANTEC,NeoECO Gold NE750G M,https://kakaku.com/item/K0001358285/,Gold,ATX,140,full,x2,HELLY,,,,,,,,,,,,,,,
-,ANTEC,NeoECO Gold NE850G M [White],https://kakaku.com/item/K0001358287/,Gold,ATX,140,full,x2,HELLY,,,,,,,,,,,,,,,
-,ANTEC,NeoECO Gold NE850G M,https://kakaku.com/item/K0001358286/,Gold,ATX,140,full,x2,HELLY,,,,,,,,,,,,,,,
-,ANTEC,HCG650 GOLD,https://kakaku.com/item/K0001059264/,Gold,ATX,140,full,x1,Seasonic,,,,,,,,,,,,,,,
-,ANTEC,HCG750 GOLD,https://kakaku.com/item/K0001059263/,Gold,ATX,140,full,x2,Seasonic,,,,,,,,,,,,,,,
-,ANTEC,HCG850 GOLD,https://kakaku.com/item/K0001059262/,Gold,ATX,140,full,x2,Seasonic,,,,,,,,,,,,,,,
-,ANTEC,HCG1000 EXTREME,https://kakaku.com/item/K0001066733/,Gold,ATX,160,full,x2,Seasonic,,,,,,,,,,,,,,,
-,ANTEC,NE650 Platinum,https://kakaku.com/item/K0001343158/,Platinum,ATX,140,full,x2,Jiuzhou Yangguang Power Supply(九州阳光电源),,,,,,,,,,,,,,,
-,ANTEC,NE750 Platinum,https://kakaku.com/item/K0001343159/,Platinum,ATX,140,full,x2,Jiuzhou Yangguang Power Supply(九州阳光电源),,,,,,,,,,,,,,,
-,ANTEC,NE850 Platinum,https://kakaku.com/item/K0001343160/,Platinum,ATX,140,full,x2,Jiuzhou Yangguang Power Supply(九州阳光电源),,,,,,,,,,,,,,,
-,ANTEC,SIGNATURE1000 Platinum,https://kakaku.com/item/K0001294083/,Platinum,ATX,170,full,x2,Seasonic,,,,,,,,,,,,,,,
-,ANTEC,SIGNATURE1000 Titanium,https://kakaku.com/item/K0001294082/,Titanium,ATX,170,full,x2,Seasonic,,,,,,,,,,,,,,,
-,ANTEC,SIGNATURE1300 Platinum,https://kakaku.com/item/K0001294084/,Platinum,ATX,170,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Apexgaming,AG-650M,https://www.apexgaming.info/collections/power-solution/products/apexgaming-ag-650m-650w80-gold-fully-modular-power-supply-1,Gold,ATX,160,full,x1,Solytech,unknown,double sided,half-bridge LLC,rubycon 105c,Synchronous Rectification + DC/DC,Su'scon/Elite 105c,Beryl,Su'scon Electrolytic 105c,AMBEYOND AV-F14025LS,n/a,2次側TEAPOの例も？,https://www.nikktech.com/main/articles/pc-hardware/power-supplies/9788-apexgaming-ag-650m-650w-power-supply-unit-review?start=4,https://www.coolpc.com.tw/phpBB2/viewtopic.php?f=69&t=249980,https://www.overclockzone.com/ApexgamingAG-650M,-
-,Apexgaming,AG-750M,https://www.apexgaming.info/collections/power-solution/products/apexgaming-ag-750m-750w-80-gold-fully-modular-power-supply,Gold,ATX,160,full,x1,Solytech,unknown,double sided,half-bridge LLC,rubycon 105c,Synchronous Rectification + DC/DC,Su'scon/Elite 105c,Beryl,TEAPO or Su'scon Electrolytic 105c,AMBEYOND AV-F14025MB,n/a,2次側TEAPOの例も？,https://www.%65xpreview.com/68641.html,http://www.gdm.or.jp/review/2019/0912/319342/3,http://www.%65lecfans.com/d/922339.html,-
-,Apexgaming,AG-850M,https://www.apexgaming.info/collections/power-solution/products/apexgaming-ag-850m-850w-80-gold-fully-modular-power-supply,Gold,ATX,160,full,x2,Solytech,unknown,double sided,half-bridge LLC,rubycon 105c,Synchronous Rectification + DC/DC,Su'scon/Elite 105c,Beryl,Su'scon Electrolytic 105c,AMBEYOND AV-F14025HS,n/a,2次側TEAPOの例も？,https://www.techpowerup.com/review/apexgaming-ag-850m/4.html,https://underdesktop.com/review-apex-gaming-ag-850m-80-plus-gold-tsunami/,-,-
-,ASUS,ROG-STRIX-650W-GOLD,https://kakaku.com/item/K0001278870/,Gold,ATX,160,full,x2,Seasonic,,,,,,,,,,,,,,,
-,ASUS,ROG-STRIX-750W-GOLD,https://kakaku.com/item/K0001278871/,Gold,ATX,160,full,x2,Seasonic,,,,,,,,,,,,,,,
-,ASUS,ROG-STRIX-850W-GOLD,https://kakaku.com/item/K0001278872/,Gold,ATX,160,full,x2,Seasonic,,,,,,,,,,,,,,,
-,ASUS,ROG-STRIX-850W-WHITE-EDITION,https://kakaku.com/item/K0001278873/,Gold,ATX,160,full,x2,Seasonic,,,,,,,,,,,,,,,
-,ASUS,ROG-STRIX-1000W-GOLD,https://kakaku.com/item/K0001294081/,Gold,ATX,160,full,x2,Seasonic,,,,,,,,,,,,,,,
-,ASUS,ROG-THOR-850P,https://kakaku.com/item/K0001109462/,Platinum,ATX,160,full,x2,Seasonic,,,,,,,,,,,,,,,
-,ASUS,ROG-THOR-1200P,https://kakaku.com/item/K0001109461/,Platinum,ATX,190,full,x2,Seasonic,,,,,,,,,,,,,,,
-,ASUS,ROG-THOR-1000P2-GAMING,https://kakaku.com/item/K0001410652/,Platinum,ATX,190,full,x2,Seasonic,,,,,,,,,,,,,,,
+,ANTEC,NeoECO Gold NE650G M,https://kakaku.com/item/K0001358284/,Gold,ATX,140,full,x2,HELLY,unknown,double sided,half-bridge LLC,,,,,,,,,,,,
+,ANTEC,NeoECO Gold NE750G M,https://kakaku.com/item/K0001358285/,Gold,ATX,140,full,x2,HELLY,unknown,double sided,half-bridge LLC,,,,,,,,,,,,
+,ANTEC,NeoECO Gold NE850G M [White],https://kakaku.com/item/K0001358287/,Gold,ATX,140,full,x2,HELLY,unknown,double sided,half-bridge LLC,,,,,,,,,,,,
+,ANTEC,NeoECO Gold NE850G M,https://kakaku.com/item/K0001358286/,Gold,ATX,140,full,x2,HELLY,unknown,double sided,half-bridge LLC,,,,,,,,,https://www.gdm.or.jp/review/2021/0915/408260/3,,,
+,ANTEC,HCG650 GOLD,https://kakaku.com/item/K0001059264/,Gold,ATX,140,full,x1,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,ANTEC,HCG750 GOLD,https://kakaku.com/item/K0001059263/,Gold,ATX,140,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,ANTEC,HCG850 GOLD,https://kakaku.com/item/K0001059262/,Gold,ATX,140,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,ANTEC,HCG1000 EXTREME,https://kakaku.com/item/K0001066733/,Gold,ATX,160,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,ANTEC,NE650 Platinum,https://kakaku.com/item/K0001343158/,Platinum,ATX,140,full,x2,Jiuzhou Yangguang Power Supply(九州阳光电源),(Toughpower PF1),double sided,,,,,,,,,,,,,
+,ANTEC,NE750 Platinum,https://kakaku.com/item/K0001343159/,Platinum,ATX,140,full,x2,Jiuzhou Yangguang Power Supply(九州阳光电源),(Toughpower PF1),double sided,,,,,,,,,,,,,
+,ANTEC,NE850 Platinum,https://kakaku.com/item/K0001343160/,Platinum,ATX,140,full,x2,Jiuzhou Yangguang Power Supply(九州阳光电源),(Toughpower PF1),double sided,,,,,,,,,,https://www.gdm.or.jp/review/2021/0420/388589/3,,,
+,ANTEC,SIGNATURE1000 Platinum,https://kakaku.com/item/K0001294083/,Platinum,ATX,170,full,x2,Seasonic,Seasonic PRIME PX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,ANTEC,SIGNATURE1000 Titanium,https://kakaku.com/item/K0001294082/,Titanium,ATX,170,full,x2,Seasonic,Seasonic PRIME TX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,ANTEC,SIGNATURE1300 Platinum,https://kakaku.com/item/K0001294084/,Platinum,ATX,170,full,x2,Seasonic,Seasonic PRIME PX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Apexgaming,AP-550Ti,https://www.apexgaming.info/collections/power-solution/products/apexgaming-ap-550ti-550watt-80-plus-bronze-power-supply,Bronze,ATX,140,fixed,x1 +4pin,Solytech,unknown,single sided,,,,,,,,,,,,,
+,Apexgaming,AG-650M,https://www.apexgaming.info/collections/power-solution/products/apexgaming-ag-650m-650w80-gold-fully-modular-power-supply-1,Gold,ATX,160,full,x1,Solytech,(AG-M),double sided,half-bridge LLC,rubycon 105c,Synchronous Rectification + DC/DC,Su'scon/Elite 105c,Beryl,Su'scon Electrolytic 105c,AMBEYOND AV-F14025LS,n/a,2次側TEAPOの例も？,https://www.nikktech.com/main/articles/pc-hardware/power-supplies/9788-apexgaming-ag-650m-650w-power-supply-unit-review?start=4,https://www.coolpc.com.tw/phpBB2/viewtopic.php?f=69&t=249980,https://www.overclockzone.com/ApexgamingAG-650M,-
+,Apexgaming,AG-750M,https://www.apexgaming.info/collections/power-solution/products/apexgaming-ag-750m-750w-80-gold-fully-modular-power-supply,Gold,ATX,160,full,x1,Solytech,(AG-M),double sided,half-bridge LLC,rubycon 105c,Synchronous Rectification + DC/DC,Su'scon/Elite 105c,Beryl,TEAPO or Su'scon Electrolytic 105c,AMBEYOND AV-F14025MB,n/a,2次側TEAPOの例も？,https://www.%65xpreview.com/68641.html,http://www.gdm.or.jp/review/2019/0912/319342/3,http://www.%65lecfans.com/d/922339.html,-
+,Apexgaming,AG-850M,https://www.apexgaming.info/collections/power-solution/products/apexgaming-ag-850m-850w-80-gold-fully-modular-power-supply,Gold,ATX,160,full,x2,Solytech,(AG-M),double sided,half-bridge LLC,rubycon 105c,Synchronous Rectification + DC/DC,Su'scon/Elite 105c,Beryl,Su'scon Electrolytic 105c,AMBEYOND AV-F14025HS,n/a,2次側TEAPOの例も？,https://www.techpowerup.com/review/apexgaming-ag-850m/4.html,https://underdesktop.com/review-apex-gaming-ag-850m-80-plus-gold-tsunami/,-,-
+,Apexgaming,AJ-650M,https://www.apexgaming.info/collections/power-solution/products/apexgaming-aj-650m-650watt-80-plus-gold-fully-modular-power-supply,Gold,ATX,160,full,x1 +4pin,Solytech,(AG-M),double sided,,,,,,,,,,,,,
+,Apexgaming,AJ-750M,https://www.apexgaming.info/collections/power-solution/products/apexgaming-aj-750m-750watt-80-plus-gold-fully-modular-power-supply,Gold,ATX,160,full,x2,Solytech,(AG-M),double sided,,,,,,,,,,,,,
+,Apexgaming,AJ-850M,https://www.apexgaming.info/collections/power-solution/products/apexgaming-aj-850m-850watt-80-plus-gold-fully-modular-power-supply,Gold,ATX,160,full,x2,Solytech,(AG-M),double sided,,,,,,,,,,,,,
+,ASUS,ROG-STRIX-650W-GOLD,https://kakaku.com/item/K0001278870/,Gold,ATX,160,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,ASUS,ROG-STRIX-750W-GOLD,https://kakaku.com/item/K0001278871/,Gold,ATX,160,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,ASUS,ROG-STRIX-850W-GOLD,https://kakaku.com/item/K0001278872/,Gold,ATX,160,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,ASUS,ROG-STRIX-850W-WHITE-EDITION,https://kakaku.com/item/K0001278873/,Gold,ATX,160,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,ASUS,ROG-STRIX-1000W-GOLD,https://kakaku.com/item/K0001294081/,Gold,ATX,160,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,ASUS,ROG-THOR-850P,https://kakaku.com/item/K0001109462/,Platinum,ATX,160,full,x2,Seasonic,Seasonic PRIME PX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,ASUS,ROG-THOR-1200P,https://kakaku.com/item/K0001109461/,Platinum,ATX,190,full,x2,Seasonic,Seasonic PRIME PX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,ASUS,ROG-THOR-1000P2-GAMING,https://kakaku.com/item/K0001410652/,Platinum,ATX,190,full,x2,Seasonic,Seasonic PRIME PX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
 discontinued,Cooler Master,MasterWatt 450 MPX-4501-AMAAB-JP,https://kakaku.com/item/K0001010188/,Bronze,ATX,140,semi,x1,HEC,(MasterWatt),single sided,double forward,Teapo 85c,Passive Rectification + DC/DC,TEAPO 105c,FPCAP,TEAPO 105c,CM Silencio FP DF1202512RFLN,n/a,3C認証：2017010907002561,https://www.computerbase.de/2018-03/cooler-master-masterwatt-enermax-revobron-netzteil-test/2/,https://nl.hardware.info/product/411277/cooler-master-masterwatt-450w,-,-
 ,Cooler Master,MasterWatt 550 TUF Gaming Edition MPX-5501-AMAAB-JF,https://kakaku.com/item/K0001083772/,Bronze,ATX,140,semi,x1,HEC,(MasterWatt),single sided,double forward,unknown 85c,Passive Rectification + DC/DC,? TEAPO 105c,? FPCAP,? TEAPO 105c,CM Silencio FP DF1202512RFLN,n/a,3C認証：2017010907002585,https://www.pcgameshardware.de/Netzteil-Hardware-219902/Tests/Cooler-Master-Masterwatt-550-Review-1246492/,-,-,-
 discontinued,Cooler Master,MasterWatt 650 MPX-6501-AMAAB-JP,https://kakaku.com/item/K0001010190/,Bronze,ATX,140,semi,x1,HEC,(MasterWatt),single sided,double forward,Teapo 85c,Passive Rectification + DC/DC,TEAPO 105c,FPCAP,TEAPO 105c,CM Silencio FP DF1202512RFLN,n/a,3C認証：2017010907006836,https://www.kitguru.net/components/power-supplies/zardon/cooler-master-masterwatt-650-power-supply-review/4/,https://pcper.com/2018/10/cooler-master-masterwatt-650w-power-supply-review/3/,-,-
 discontinued,Cooler Master,MasterWatt 750 MPX-7501-AMAAB-JP,https://kakaku.com/item/K0001010191/,Bronze,ATX,140,semi,x1,HEC,(MasterWatt),single sided,double forward,Elite 85c,Passive Rectification + DC/DC,TEAPO 105c,FPCAP,TEAPO 105c,CM Silencio FP DF1202512RFLN,n/a,3C認証：2017010907006836,http://www.f14lab.com/2017/12/review-cooler-master-master-watt-750.html,https://i2hard.ru/publications/22367/,https://www.pctekreviews.com/Reviews/CMMPX750.aspx,-
-,Cooler Master,MWE 450 Bronze-V2 MPE-4501-ACAAB-JP,https://kakaku.com/item/K0001217996/,Bronze,ATX,140,fixed,x1,Gospower,unknown,single sided,half-bridge LLC,Elite 85c,Synchronous Rectification + DC/DC,Elite 105c,CapXon,n/a,DF1202512SELN,yes,https://ru.gecid.com/power/cooler_master_mwe_bronze_650/,-,-,-,-
-,Cooler Master,MWE 550 Bronze-V2 MPE-5501-ACAAB-JP,https://kakaku.com/item/K0001217997/,Bronze,ATX,140,fixed,x1,Gospower,unknown,single sided,half-bridge LLC,Elite 85c,Synchronous Rectification + DC/DC,Elite 105c,CapXon,n/a,DF1202512SELN,yes,https://ru.gecid.com/power/cooler_master_mwe_bronze_650/,ftp://members.cybenetics.report/PDF_Reports/d/cybenetics_Jv8.pdf,-,-,-
 discontinued,Cooler Master,MWE Bronze 450 MPX-4501-ACAAB-JP,https://kakaku.com/item/K0001010185/,Bronze,ATX,140,fixed,x1,HEC,(MasterWatt),single sided,double forward,? Elite 85c,Passive Rectification + DC/DC,? TEAPO 105c,? FPCAP,n/a,CM Silencio FP DF1202512RFLN,yes,3C認証：2017010907002561,-,-,-,-
 discontinued,Cooler Master,MWE Bronze 650 MPX-6501-ACAAB-JP,https://kakaku.com/item/K0001010187/,Bronze,ATX,140,fixed,x1,HEC,(MasterWatt),single sided,double forward,Elite 85c,Passive Rectification + DC/DC,TEAPO 105c,FPCAP,n/a,CM Silencio FP DF1202512RFLN,yes,3C認証：2017010907006836,http://www.f14lab.com/2017/12/review-cooler-master-mwe-bronze-650-650w.html,https://www.coolpc.com.tw/phpBB2/viewtopic.php?f=69&t=241705&p=632368,-,-
-,Cooler Master,G600 Gold MPW-6001-ACAAG-JP,https://kakaku.com/item/K0001407323/,Gold,ATX,140,fixed,x1,Huizhou XinHuiYuan(鑫晖源),,,,,,,,,,,,,,,
-,Cooler Master,G800 Gold MPW-8001-ACAAG-JP,https://kakaku.com/item/K0001407324/,Gold,ATX,140,fixed,x1,Huizhou XinHuiYuan(鑫晖源),,,,,,,,,,,,,,,
-,Cooler Master,MWE Gold 550 Full Modular MPY-5501-AFAAG,https://kakaku.com/item/K0001082222/,Gold,ATX,160,full,x1,Huizhou XinHuiYuan(鑫晖源),unknown,double sided,full-bridge LLC,Elite 85c,Synchronous Rectification + DC/DC,Elite 105c,Elite,Elite electrolytic?,CM Silencio FP DF1202512RFLN,n/a,3C認証 : 2017010907007095,https://nl.hardware.info/artikel/8903/cooler-master-mwe-gold-voedingen-review-kan-een-80plus-gold-te-goedkoop-zijn,https://ru.gecid.com/power/cooler_master_mwe_gold_550/,-,-
-discontinued,Cooler Master,MWE Gold 550 MPY-5501-ACAAG,https://kakaku.com/item/K0001083422/,Gold,ATX,140,fixed,x1,Huizhou XinHuiYuan(鑫晖源),unknown,double sided,full-bridge LLC,Elite 85c,Synchronous Rectification + DC/DC,12KuangJin 105c,FPCAP,n/a,CM Silencio FP DF1202512RFLN,n/a,3C認証 : 2017010907007095,https://www.%65xpreview.com/58307-all.html,-,-,-
-,Cooler Master,MWE Gold 750 Full Modular MPY-7501-AFAAG,https://kakaku.com/item/K0001082221/,Gold,ATX,160,full,x1,Huizhou XinHuiYuan(鑫晖源),unknown,double sided,full-bridge LLC,Elite 85c,Synchronous Rectification + DC/DC,Elite 105c,Elite,Elite electrolytic,CM Silencio FP DF1202512RFLN,n/a,3C認証 : 2017010907007095,https://nl.hardware.info/artikel/8903/cooler-master-mwe-gold-voedingen-review-kan-een-80plus-gold-te-goedkoop-zijn,https://gnd-tech.com/2018/11/cooler-master-mwe-gold-750-power-supply-review/,https://pcper.com/2019/01/cooler-master-mwe-gold-750w-full-modular-power-supply-review/3/,-
-,Cooler Master,MWE Gold 750 MPY-7501-ACAAG,https://kakaku.com/item/K0001083421/,Gold,ATX,140,fixed,x1,Huizhou XinHuiYuan(鑫晖源),unknown,double sided,full-bridge LLC,Elite 85c,Synchronous Rectification + DC/DC,Elite 105c,Elite,n/a,CM Silencio FP DF1202512RFLN,n/a,3C認証 : 2017010907007095,https://proclockers.com/reviews/power-supplies/cooler-master-mwe-gold-series-750w-power-supplies-review/page/0/4,-,-,-
-,Cooler Master,GX Gold 550 Full Modular MPE-5501-AFAAG-J1,https://kakaku.com/item/K0001407321/,Gold,ATX,160,full,x1,Huizhou XinHuiYuan(鑫晖源),,,,,,,,,,,,,,,
-,Cooler Master,GX Gold 750 Full Modular MPE-7501-AFAAG-J1,https://kakaku.com/item/K0001407322/,Gold,ATX,160,full,x1,Huizhou XinHuiYuan(鑫晖源),,,,,,,,,,,,,,,
-,Cooler Master,MWE Gold V2 550 Full Modular MPE-5501-AFAAG-JP,https://kakaku.com/item/K0001335614/,Gold,ATX,160,full,x1,Huizhou XinHuiYuan(鑫晖源),,,,,,,,,,,,,,,
-,Cooler Master,MWE Gold V2 550 MPE-5501-ACAAG-JP,https://kakaku.com/item/K0001335612/,Gold,ATX,140,fixed,x1,Huizhou XinHuiYuan(鑫晖源),,,,,,,,,,,,,,,
-,Cooler Master,MWE Gold V2 750 Full Modular MPE-7501-AFAAG-JP,https://kakaku.com/item/K0001335615/,Gold,ATX,160,full,x1,Huizhou XinHuiYuan(鑫晖源),,,,,,,,,,,,,,,
-,Cooler Master,MWE Gold V2 750 MPE-7501-ACAAG-JP,https://kakaku.com/item/K0001335613/,Gold,ATX,140,fixed,x1,Huizhou XinHuiYuan(鑫晖源),,,,,,,,,,,,,,,
-,Cooler Master,V SFX Gold 550W MPY-5501-SFHAGV-JP,https://kakaku.com/item/K0001314159/,Gold,SFX,100,full,x1,Gospower,,,,,,,,,,,,,,,
-,Cooler Master,V SFX Gold 650W MPY-6501-SFHAGV-JP,https://kakaku.com/item/K0001314160/,Gold,SFX,100,full,x1,Gospower,,,,,,,,,,,,,,,
-,Cooler Master,V SFX Gold 750W MPY-7501-SFHAGV-JP,https://kakaku.com/item/K0001314161/,Gold,SFX,100,full,x1,Gospower,,,,,,,,,,,,,,,
-,Cooler Master,V SFX Gold 850W MPY-8501-SFHAGV-JP,https://kakaku.com/item/K0001314162/,Gold,SFX,100,full,x1,Gospower,,,,,,,,,,,,,,,
-,Cooler Master,V1000 PLATINUM MPZ-A001-AFBAPV-JP,https://kakaku.com/item/K0001217998/,Platinum,ATX,201.2,full,x1,Delta,,,,,,,,,,,,,,,
-,Cooler Master,V1000 RSA00-AFBAG1-JP,https://kakaku.com/item/K0000595818/,Gold,ATX,170,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Cooler Master,V1200 Platinum RSC00-AFBAG1-JP,https://kakaku.com/item/K0000683652/,Platinum,ATX,190,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Cooler Master,V1300 PLATINUM MPZ-D001-AFBAPV-JP,https://kakaku.com/item/K0001217999/,Platinum,ATX,201.2,full,x1,Delta,,,,,,,,,,,,,,,
-,Cooler Master,V650 Gold MPY-6501-AFAAGV-JP,https://kakaku.com/item/K0001162470/,Gold,ATX,160,full,x1,Chicony,,,,,,,,,,,,,,,
-,Cooler Master,V750 Gold MPY-7501-AFAAGV-JP,https://kakaku.com/item/K0001162471/,Gold,ATX,160,full,x1,Chicony,,,,,,,,,,,,,,,
-,Cooler Master,V650 GOLD V2 MPY-650V-AFBAG-JP,https://kakaku.com/item/K0001336194/,Gold,ATX,160,full,x1,Gospower,,,,,,,,,,,,,,,
-,Cooler Master,V750 GOLD V2 MPY-750V-AFBAG-JP,https://kakaku.com/item/K0001336195/,Gold,ATX,160,full,x1,Gospower,,,,,,,,,,,,,,,
-,Cooler Master,V750 GOLD V2 White Edition MPY-750V-AGBAG-JP,https://kakaku.com/item/K0001340397/,Gold,ATX,160,full,x1,Gospower,,,,,,,,,,,,,,,
-,Cooler Master,V850 GOLD V2 MPY-850V-AFBAG-JP,https://kakaku.com/item/K0001336196/,Gold,ATX,160,full,x1,Gospower,,,,,,,,,,,,,,,
-,Cooler Master,V850 GOLD V2 White Edition MPY-850V-AGBAG-JP,https://kakaku.com/item/K0001340398/,Gold,ATX,160,full,x1,Gospower,,,,,,,,,,,,,,,
+,Cooler Master,MWE 450 Bronze-V2 MPE-4501-ACAAB-JP,https://kakaku.com/item/K0001217996/,Bronze,ATX,140,fixed,x1,Gospower,unknown,single sided,half-bridge LLC,Elite 85c,Synchronous Rectification + DC/DC,Elite 105c,CapXon,n/a,DF1202512SELN,yes,https://ru.gecid.com/power/cooler_master_mwe_bronze_650/,-,-,-,-
+,Cooler Master,MWE 550 Bronze-V2 MPE-5501-ACAAB-JP,https://kakaku.com/item/K0001217997/,Bronze,ATX,140,fixed,x1,Gospower,unknown,single sided,half-bridge LLC,Elite 85c,Synchronous Rectification + DC/DC,Elite 105c,CapXon,n/a,DF1202512SELN,yes,https://ru.gecid.com/power/cooler_master_mwe_bronze_650/,ftp://members.cybenetics.report/PDF_Reports/d/cybenetics_Jv8.pdf,-,-,-
+,Cooler Master,G600 Gold MPW-6001-ACAAG-JP,https://kakaku.com/item/K0001407323/,Gold,ATX,140,fixed,x1,Huizhou XinHuiYuan(鑫晖源),Model:2008,double sided,,,,,,,,,,,,,
+,Cooler Master,G800 Gold MPW-8001-ACAAG-JP,https://kakaku.com/item/K0001407324/,Gold,ATX,140,fixed,x1,Huizhou XinHuiYuan(鑫晖源),Model:2008,double sided,,,,,,,,,,,,,
+,Cooler Master,MWE Gold 550 Full Modular MPY-5501-AFAAG,https://kakaku.com/item/K0001082222/,Gold,ATX,160,full,x1,Huizhou XinHuiYuan(鑫晖源),Model:1908,double sided,full-bridge LLC,Elite 85c,Synchronous Rectification + DC/DC,Elite 105c,Elite,Elite electrolytic?,CM Silencio FP DF1202512RFLN,n/a,3C認証 : 2017010907007095,https://nl.hardware.info/artikel/8903/cooler-master-mwe-gold-voedingen-review-kan-een-80plus-gold-te-goedkoop-zijn,https://ru.gecid.com/power/cooler_master_mwe_gold_550/,-,-
+discontinued,Cooler Master,MWE Gold 550 MPY-5501-ACAAG,https://kakaku.com/item/K0001083422/,Gold,ATX,140,fixed,x1,Huizhou XinHuiYuan(鑫晖源),Model:1908,double sided,full-bridge LLC,Elite 85c,Synchronous Rectification + DC/DC,12KuangJin 105c,FPCAP,n/a,CM Silencio FP DF1202512RFLN,n/a,3C認証 : 2017010907007095,https://www.%65xpreview.com/58307-all.html,-,-,-
+,Cooler Master,MWE Gold 750 Full Modular MPY-7501-AFAAG,https://kakaku.com/item/K0001082221/,Gold,ATX,160,full,x1,Huizhou XinHuiYuan(鑫晖源),Model:1908,double sided,full-bridge LLC,Elite 85c,Synchronous Rectification + DC/DC,Elite 105c,Elite,Elite electrolytic,CM Silencio FP DF1202512RFLN,n/a,3C認証 : 2017010907007095,https://nl.hardware.info/artikel/8903/cooler-master-mwe-gold-voedingen-review-kan-een-80plus-gold-te-goedkoop-zijn,https://gnd-tech.com/2018/11/cooler-master-mwe-gold-750-power-supply-review/,https://pcper.com/2019/01/cooler-master-mwe-gold-750w-full-modular-power-supply-review/3/,-
+,Cooler Master,MWE Gold 750 MPY-7501-ACAAG,https://kakaku.com/item/K0001083421/,Gold,ATX,140,fixed,x1,Huizhou XinHuiYuan(鑫晖源),Model:1908,double sided,full-bridge LLC,Elite 85c,Synchronous Rectification + DC/DC,Elite 105c,Elite,n/a,CM Silencio FP DF1202512RFLN,n/a,3C認証 : 2017010907007095,https://proclockers.com/reviews/power-supplies/cooler-master-mwe-gold-series-750w-power-supplies-review/page/0/4,-,-,-
+,Cooler Master,GX Gold 550 Full Modular MPE-5501-AFAAG-J1,https://kakaku.com/item/K0001407321/,Gold,ATX,160,full,x1,Huizhou XinHuiYuan(鑫晖源),Model:1908,double sided,full-bridge LLC,,,,,,,,,,,,
+,Cooler Master,GX Gold 750 Full Modular MPE-7501-AFAAG-J1,https://kakaku.com/item/K0001407322/,Gold,ATX,160,full,x1,Huizhou XinHuiYuan(鑫晖源),Model:1908,double sided,full-bridge LLC,,,,,,,,,,,,
+,Cooler Master,MWE Gold V2 550 Full Modular MPE-5501-AFAAG-JP,https://kakaku.com/item/K0001335614/,Gold,ATX,160,full,x1,Huizhou XinHuiYuan(鑫晖源),Model:1908,double sided,full-bridge LLC,,,,,,,,,,,,
+,Cooler Master,MWE Gold V2 550 MPE-5501-ACAAG-JP,https://kakaku.com/item/K0001335612/,Gold,ATX,140,fixed,x1,Huizhou XinHuiYuan(鑫晖源),Model:1908,double sided,full-bridge LLC,,,,,,,,,,,,
+,Cooler Master,MWE Gold V2 750 Full Modular MPE-7501-AFAAG-JP,https://kakaku.com/item/K0001335615/,Gold,ATX,160,full,x1,Huizhou XinHuiYuan(鑫晖源),Model:1908,double sided,full-bridge LLC,,,,,,,,,,,,
+,Cooler Master,MWE Gold V2 750 MPE-7501-ACAAG-JP,https://kakaku.com/item/K0001335613/,Gold,ATX,140,fixed,x1,Huizhou XinHuiYuan(鑫晖源),Model:1908,double sided,full-bridge LLC,,,,,,,,,,,,
+,Cooler Master,V SFX Gold 550W MPY-5501-SFHAGV-JP,https://kakaku.com/item/K0001314159/,Gold,SFX,100,full,x1,Gospower,unknown,double sided,,,,,,,,,,,,,
+,Cooler Master,V SFX Gold 650W MPY-6501-SFHAGV-JP,https://kakaku.com/item/K0001314160/,Gold,SFX,100,full,x1,Gospower,unknown,double sided,,,,,,,,,,,,,
+,Cooler Master,V SFX Gold 750W MPY-7501-SFHAGV-JP,https://kakaku.com/item/K0001314161/,Gold,SFX,100,full,x1,Gospower,unknown,double sided,,,,,,,,,,,,,
+,Cooler Master,V SFX Gold 850W MPY-8501-SFHAGV-JP,https://kakaku.com/item/K0001314162/,Gold,SFX,100,full,x1,Gospower,unknown,double sided,,,,,,,,,,,,,
+,Cooler Master,V1000 PLATINUM MPZ-A001-AFBAPV-JP,https://kakaku.com/item/K0001217998/,Platinum,ATX,201.2,full,x1,Delta,(Antec HCP Platinum),double sided,,,,,,,,,,,,,
+,Cooler Master,V1000 RSA00-AFBAG1-JP,https://kakaku.com/item/K0000595818/,Gold,ATX,170,full,x2,Seasonic,Seasonic KM3,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Cooler Master,V1200 Platinum RSC00-AFBAG1-JP,https://kakaku.com/item/K0000683652/,Platinum,ATX,190,full,x2,Seasonic,Seasonic XP3,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Cooler Master,V1300 PLATINUM MPZ-D001-AFBAPV-JP,https://kakaku.com/item/K0001217999/,Platinum,ATX,201.2,full,x1,Delta,(Antec HCP Platinum),double sided,,,,,,,,,,,,,
+,Cooler Master,V650 Gold MPY-6501-AFAAGV-JP,https://kakaku.com/item/K0001162470/,Gold,ATX,160,full,x1,Chicony,unknown,,,,,,,,,,,,,,
+,Cooler Master,V750 Gold MPY-7501-AFAAGV-JP,https://kakaku.com/item/K0001162471/,Gold,ATX,160,full,x1,Chicony,unknown,,,,,,,,,,,,,,
+,Cooler Master,V650 GOLD V2 MPY-650V-AFBAG-JP,https://kakaku.com/item/K0001336194/,Gold,ATX,160,full,x1,Gospower,unknown,,,,,,,,,,,,,,
+,Cooler Master,V750 GOLD V2 MPY-750V-AFBAG-JP,https://kakaku.com/item/K0001336195/,Gold,ATX,160,full,x1,Gospower,unknown,,,,,,,,,,,,,,
+,Cooler Master,V750 GOLD V2 White Edition MPY-750V-AGBAG-JP,https://kakaku.com/item/K0001340397/,Gold,ATX,160,full,x1,Gospower,unknown,,,,,,,,,,,,,,
+,Cooler Master,V850 GOLD V2 MPY-850V-AFBAG-JP,https://kakaku.com/item/K0001336196/,Gold,ATX,160,full,x1,Gospower,unknown,,,,,,,,,,,,,,
+,Cooler Master,V850 GOLD V2 White Edition MPY-850V-AGBAG-JP,https://kakaku.com/item/K0001340398/,Gold,ATX,160,full,x1,Gospower,unknown,,,,,,,,,,,,,,
 ,Corsair,CX450M CP-9020101-JP,https://kakaku.com/item/K0000866469/,Bronze,ATX,140,semi,x1,CWT,Corsair custom,single sided,double forward,japanese 105c,Synchronous Rectification + DC/DC,chemi-con/SAMXON/Su'scon 105c,chemi-con/APAQ/Teapo,APAQ,HongHua HA1225H12F-Z(H12S-Zから変更),n/a,https://linustechtips.com/main/topic/1018726-sleeve-bearing-durability/?tab=comments#comment-12167990,https://nl.hardware.info/artikel/6952/corsair-cx450m-review-aardige-budgetvoeding,https://tweakers.net/productreview/136105/corsair-cx450m.html,-,-
 ,Corsair,CX550M CP-9020102-JP,https://kakaku.com/item/K0000866468/,Bronze,ATX,140,semi,x1,CWT,Corsair custom,single sided,double forward,japanese 105c,Synchronous Rectification + DC/DC,chemi-con/SAMXON/Su'scon 105c,chemi-con/APAQ/Teapo,APAQ,HongHua HA1225H12F-Z(H12S-Zから変更),n/a,https://linustechtips.com/main/topic/1018726-sleeve-bearing-durability/?tab=comments#comment-12167990,https://www.hardwareinsights.com/corsair-cx550m-farewell-group-design/4/,https://egg.5ch.net/test/read.cgi/jisaku/1553903091/293,-,-
 ,Corsair,CX650M CP-9020103-JP,https://kakaku.com/item/K0000866467/,Bronze,ATX,140,semi,x1,CWT,Corsair custom,single sided,double forward,japanese 105c,Synchronous Rectification + DC/DC,chemi-con/SAMXON/Su'scon 105c,chemi-con/APAQ/Teapo,APAQ,HongHua HA1225H12F-Z(H12S-Zから変更),n/a,https://linustechtips.com/main/topic/1018726-sleeve-bearing-durability/?tab=comments#comment-12167990,"https://www.tomshardware.com/reviews/corsair-cx650m-psu,4770-3.html",-,-,-
@@ -90,71 +94,74 @@ discontinued,Corsair,VS650 CP-9020172-JP,https://kakaku.com/item/K0001035638/,St
 ,Corsair,CX550M 2021 CP-9020220-JP,https://kakaku.com/item/K0001394500/,Bronze,ATX,140,semi,x1,CWT,,,,,,,,,,,,,,,
 ,Corsair,CX650M 2021 CP-9020221-JP,https://kakaku.com/item/K0001394501/,Bronze,ATX,140,semi,x2,CWT,,,,,,,,,,,,,,,
 ,Corsair,CX750M 2021 CP-9020222-JP,https://kakaku.com/item/K0001394502/,Bronze,ATX,140,semi,x2,CWT,,,,,,,,,,,,,,,
-,Corsair,CX550F RGB CP-9020216-JP,https://kakaku.com/item/K0001312776/,Bronze,ATX,140,full,x1,HEC,,,,,,,,,,,,,,,
-,Corsair,CX550F RGB CP-9020225-JP [White],https://kakaku.com/item/K0001312777/,Bronze,ATX,140,full,x1,HEC,,,,,,,,,,,,,,,
-,Corsair,CX650F RGB CP-9020217-JP,https://kakaku.com/item/K0001312772/,Bronze,ATX,140,full,x2,HEC,,,,,,,,,,,,,,,
-,Corsair,CX650F RGB CP-9020226-JP [White],https://kakaku.com/item/K0001312773/,Bronze,ATX,140,full,x2,HEC,,,,,,,,,,,,,,,
-,Corsair,CX750F RGB CP-9020218-JP,https://kakaku.com/item/K0001312774/,Bronze,ATX,140,full,x2,HEC,,,,,,,,,,,,,,,
-,Corsair,CX750F RGB CP-9020227-JP [White],https://kakaku.com/item/K0001312775/,Bronze,ATX,140,full,x2,HEC,,,,,,,,,,,,,,,
-,Corsair,RM550x CP-9020177-JP,https://kakaku.com/item/K0001065309/,Gold,ATX,160,full,Unknown,CWT,,,,,,,,,,,,,,,
-,Corsair,RM650x CP-9020178-JP,https://kakaku.com/item/K0001064179/,Gold,ATX,160,full,Unknown,CWT,,,,,,,,,,,,,,,
-,Corsair,RM750x CP-9020179-JP,https://kakaku.com/item/K0001046021/,Gold,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,Corsair,RM750x CP-9020187-JP [White],https://kakaku.com/item/K0001120387/,Gold,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,Corsair,RM850x CP-9020180-JP,https://kakaku.com/item/K0001054493/,Gold,ATX,160,full,Unknown,CWT,,,,,,,,,,,,,,,
-,Corsair,RM850x CP-9020188-JP [White],https://kakaku.com/item/K0001120388/,Gold,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,Corsair,RM1000x CP-9020094-JP,https://kakaku.com/item/K0000835117/,Gold,ATX,180,full,x2,CWT,,,,,,,,,,,,,,,
-,Corsair,RM650 CP-9020194-JP,https://kakaku.com/item/K0001166415/,Gold,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,Corsair,RM750 CP-9020195-JP,https://kakaku.com/item/K0001166416/,Gold,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,Corsair,RM850 CP-9020196-JP,https://kakaku.com/item/K0001166417/,Gold,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,Corsair,RM650 2021 CP-9020233-JP,https://kakaku.com/item/K0001394494/,Gold,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,Corsair,RM750 2021 CP-9020234-JP,https://kakaku.com/item/K0001394495/,Gold,ATX,160,full,x3,CWT,,,,,,,,,,,,,,,
-,Corsair,RM750 White 2021 CP-9020231-JP,https://kakaku.com/item/K0001394497/,Gold,ATX,160,full,x3,CWT,,,,,,,,,,,,,,,
-,Corsair,RM850 2021 CP-9020235-JP,https://kakaku.com/item/K0001394496/,Gold,ATX,160,full,x3,CWT,,,,,,,,,,,,,,,
-,Corsair,RM850 White 2021 CP-9020232-JP,https://kakaku.com/item/K0001394498/,Gold,ATX,160,full,x3,CWT,,,,,,,,,,,,,,,
-,Corsair,RM550x 2021 CP-9020197-JP,https://kakaku.com/item/K0001394503/,Gold,ATX,160,full,x1,CWT,,,,,,,,,,,,,,,
-,Corsair,RM650x 2021 CP-9020198-JP,https://kakaku.com/item/K0001394504/,Gold,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,Corsair,RM750x 2021 CP-9020199-JP,https://kakaku.com/item/K0001394505/,Gold,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,Corsair,RM850x 2021 CP-9020200-JP,https://kakaku.com/item/K0001394506/,Gold,ATX,160,full,x3,CWT,,,,,,,,,,,,,,,
-,Corsair,RM1000x 2021 CP-9020201-JP,https://kakaku.com/item/K0001394507/,Gold,ATX,180,full,x3,CWT,,,,,,,,,,,,,,,
-,Corsair,SF450 CP-9020104-JP,https://kakaku.com/item/K0000875612/,Gold,SFX,100,full,x1,GreatWall,,,,,,,,,,,,,,,
-,Corsair,SF600 CP-9020105-JP,https://kakaku.com/item/K0000875611/,Gold,SFX,100,full,x1,GreatWall,,,,,,,,,,,,,,,
-,Corsair,SF450 Platinum CP-9020181-JP,https://kakaku.com/item/K0001101478/,Platinum,SFX,100,full,x1,GreatWall,,,,,,,,,,,,,,,
-,Corsair,SF600 Platinum CP-9020182-JP,https://kakaku.com/item/K0001101479/,Platinum,SFX,100,full,x1,GreatWall,,,,,,,,,,,,,,,
-,Corsair,SF750 Platinum CP-9020186-JP,https://kakaku.com/item/K0001126834/,Platinum,SFX,100,full,x2,GreatWall,,,,,,,,,,,,,,,
-,Corsair,HX1000 CP-9020139-JP,https://kakaku.com/item/K0000999277/,Platinum,ATX,180,full,x2,CWT,,,,,,,,,,,,,,,
-,Corsair,HX1200 CP-9020140-JP,https://kakaku.com/item/K0000999278/,Platinum,ATX,200,full,x2,CWT,,,,,,,,,,,,,,,
-,Corsair,HX750 CP-9020137-JP,https://kakaku.com/item/K0000999275/,Platinum,ATX,180,full,x2,CWT,,,,,,,,,,,,,,,
-,Corsair,HX850 CP-9020138-JP,https://kakaku.com/item/K0000999276/,Platinum,ATX,180,full,x2,CWT,,,,,,,,,,,,,,,
-,Corsair,HX750i CP-9020072-JP,https://kakaku.com/item/K0000699512/,Platinum,ATX,180,full,x2,CWT,,,,,,,,,,,,,,,
-,Corsair,HX850i CP-9020073-JP,https://kakaku.com/item/K0000699513/,Platinum,ATX,180,full,x2,CWT,,,,,,,,,,,,,,,
-,Corsair,HX1200i CP-9020070-JP,https://kakaku.com/item/K0000781203/,Platinum,ATX,200,full,x2,CWT,,,,,,,,,,,,,,,
-,Corsair,AX1600i CP-9020087-JP,https://kakaku.com/item/K0001048628/,Titanium,ATX,200,full,x2,CWT,,,,,,,,,,,,,,,
-,COUGAR,GX-F AURUM 550 CGR GD-550,https://kakaku.com/item/K0001250120/,Gold,ATX,150,full,x2,HEC,,,,,,,,,,,,,,,
-,COUGAR,GX-F AURUM 650 CGR GD-650,https://kakaku.com/item/K0001250121/,Gold,ATX,150,full,x2,HEC,,,,,,,,,,,,,,,
-,COUGAR,GX-F AURUM 750 CGR GD-750,https://kakaku.com/item/K0001250122/,Gold,ATX,150,full,x2,HEC,,,,,,,,,,,,,,,
-,DEEPCOOL,DP-BZ-DA500N,https://kakaku.com/item/K0001296615/,Bronze,ATX,140,fixed,x1,unknown,,,,,,,,,,,,,,,
-,DEEPCOOL,DP-BZ-DA600N,https://kakaku.com/item/K0001296616/,Bronze,ATX,140,fixed,x1,CWT,,,,,,,,,,,,,,,
-,DEEPCOOL,DP-BZ-DA700N,https://kakaku.com/item/K0001296617/,Bronze,ATX,140,fixed,x1,CWT,,,,,,,,,,,,,,,
-,DEEPCOOL,DP-DQ750-M-V2L WH,https://kakaku.com/item/K0001308164/,Gold,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,DEEPCOOL,DP-GD-DQ650-M-V2L,https://kakaku.com/item/K0001269015/,Gold,ATX,160,full,x1,CWT,,,,,,,,,,,,,,,
-,DEEPCOOL,DP-GD-DQ750-M-V2L,https://kakaku.com/item/K0001269016/,Gold,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,DEEPCOOL,DP-GD-DQ850-M-V2L,https://kakaku.com/item/K0001269017/,Gold,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,DEEPCOOL,PQ750M R-PQ750M-FA0B-JP,https://kakaku.com/item/K0001408651/,Gold,ATX,140,full,x2,Seasonic,,,,,,,,,,,,,,,
-,DEEPCOOL,PQ850M R-PQ850M-FA0B-JP,https://kakaku.com/item/K0001408652/,Gold,ATX,140,full,x2,Seasonic,,,,,,,,,,,,,,,
-,DEEPCOOL,PQ1000M R-PQA00M-FA0B-JP,https://kakaku.com/item/K0001408653/,Gold,ATX,140,full,x2,Seasonic,,,,,,,,,,,,,,,
-,ENERMAX,CYBERBRON ECB500AWT,https://kakaku.com/item/K0001314163/,Bronze,ATX,140,fixed,x1,CWT,,,,,,,,,,,,,,,
-,ENERMAX,CYBERBRON ECB600AWT,https://kakaku.com/item/K0001314164/,Bronze,ATX,140,fixed,x1,CWT,,,,,,,,,,,,,,,
-,ENERMAX,CYBERBRON ECB700EWT,https://kakaku.com/item/K0001314165/,Bronze,ATX,140,fixed,x2,CWT,,,,,,,,,,,,,,,
+,Corsair,CX550F RGB CP-9020216-JP,https://kakaku.com/item/K0001312776/,Bronze,ATX,140,full,x1,HEC,Corsair custom,,,,,,,,,,,,,,
+,Corsair,CX550F RGB CP-9020225-JP [White],https://kakaku.com/item/K0001312777/,Bronze,ATX,140,full,x1,HEC,Corsair custom,,,,,,,,,,,,,,
+,Corsair,CX650F RGB CP-9020217-JP,https://kakaku.com/item/K0001312772/,Bronze,ATX,140,full,x2,HEC,Corsair custom,,,,,,,,,,,,,,
+,Corsair,CX650F RGB CP-9020226-JP [White],https://kakaku.com/item/K0001312773/,Bronze,ATX,140,full,x2,HEC,Corsair custom,,,,,,,,,,,,,,
+,Corsair,CX750F RGB CP-9020218-JP,https://kakaku.com/item/K0001312774/,Bronze,ATX,140,full,x2,HEC,Corsair custom,,,,,,,,,,,,,,
+,Corsair,CX750F RGB CP-9020227-JP [White],https://kakaku.com/item/K0001312775/,Bronze,ATX,140,full,x2,HEC,Corsair custom,,,,,,,,,,,,,,
+,Corsair,RM550x CP-9020177-JP,https://kakaku.com/item/K0001065309/,Gold,ATX,160,full,Unknown,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM650x CP-9020178-JP,https://kakaku.com/item/K0001064179/,Gold,ATX,160,full,Unknown,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM750x CP-9020179-JP,https://kakaku.com/item/K0001046021/,Gold,ATX,160,full,x2,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM750x CP-9020187-JP [White],https://kakaku.com/item/K0001120387/,Gold,ATX,160,full,x2,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM850x CP-9020180-JP,https://kakaku.com/item/K0001054493/,Gold,ATX,160,full,Unknown,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM850x CP-9020188-JP [White],https://kakaku.com/item/K0001120388/,Gold,ATX,160,full,x2,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM1000x CP-9020094-JP,https://kakaku.com/item/K0000835117/,Gold,ATX,180,full,x2,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM650 CP-9020194-JP,https://kakaku.com/item/K0001166415/,Gold,ATX,160,full,x2,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM750 CP-9020195-JP,https://kakaku.com/item/K0001166416/,Gold,ATX,160,full,x2,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM850 CP-9020196-JP,https://kakaku.com/item/K0001166417/,Gold,ATX,160,full,x2,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM650 2021 CP-9020233-JP,https://kakaku.com/item/K0001394494/,Gold,ATX,160,full,x2,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM750 2021 CP-9020234-JP,https://kakaku.com/item/K0001394495/,Gold,ATX,160,full,x3,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM750 White 2021 CP-9020231-JP,https://kakaku.com/item/K0001394497/,Gold,ATX,160,full,x3,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM850 2021 CP-9020235-JP,https://kakaku.com/item/K0001394496/,Gold,ATX,160,full,x3,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM850 White 2021 CP-9020232-JP,https://kakaku.com/item/K0001394498/,Gold,ATX,160,full,x3,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM550x 2021 CP-9020197-JP,https://kakaku.com/item/K0001394503/,Gold,ATX,160,full,x1,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM650x 2021 CP-9020198-JP,https://kakaku.com/item/K0001394504/,Gold,ATX,160,full,x2,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM750x 2021 CP-9020199-JP,https://kakaku.com/item/K0001394505/,Gold,ATX,160,full,x2,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM850x 2021 CP-9020200-JP,https://kakaku.com/item/K0001394506/,Gold,ATX,160,full,x3,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,RM1000x 2021 CP-9020201-JP,https://kakaku.com/item/K0001394507/,Gold,ATX,180,full,x3,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,SF450 CP-9020104-JP,https://kakaku.com/item/K0000875612/,Gold,SFX,100,full,x1,GreatWall,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,SF600 CP-9020105-JP,https://kakaku.com/item/K0000875611/,Gold,SFX,100,full,x1,GreatWall,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,SF450 Platinum CP-9020181-JP,https://kakaku.com/item/K0001101478/,Platinum,SFX,100,full,x1,GreatWall,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,SF600 Platinum CP-9020182-JP,https://kakaku.com/item/K0001101479/,Platinum,SFX,100,full,x1,GreatWall,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,SF750 Platinum CP-9020186-JP,https://kakaku.com/item/K0001126834/,Platinum,SFX,100,full,x2,GreatWall,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,HX1000 CP-9020139-JP,https://kakaku.com/item/K0000999277/,Platinum,ATX,180,full,x2,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,HX1200 CP-9020140-JP,https://kakaku.com/item/K0000999278/,Platinum,ATX,200,full,x2,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,HX750 CP-9020137-JP,https://kakaku.com/item/K0000999275/,Platinum,ATX,180,full,x2,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,HX850 CP-9020138-JP,https://kakaku.com/item/K0000999276/,Platinum,ATX,180,full,x2,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,HX750i CP-9020072-JP,https://kakaku.com/item/K0000699512/,Platinum,ATX,180,full,x2,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,HX850i CP-9020073-JP,https://kakaku.com/item/K0000699513/,Platinum,ATX,180,full,x2,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,HX1200i CP-9020070-JP,https://kakaku.com/item/K0000781203/,Platinum,ATX,200,full,x2,CWT,Corsair custom,double sided,,,,,,,,,,,,,
+,Corsair,AX1600i CP-9020087-JP,https://kakaku.com/item/K0001048628/,Titanium,ATX,200,full,x2,CWT,Flex,double sided,,,,,,,,,,,,,
+,COUGAR,GX-F AURUM 550 CGR GD-550,https://kakaku.com/item/K0001250120/,Gold,ATX,150,full,x2,HEC,HEC TPK,,,,,,,,,,,,,,
+,COUGAR,GX-F AURUM 650 CGR GD-650,https://kakaku.com/item/K0001250121/,Gold,ATX,150,full,x2,HEC,HEC TPK,,,,,,,,,,,,,,
+,COUGAR,GX-F AURUM 750 CGR GD-750,https://kakaku.com/item/K0001250122/,Gold,ATX,150,full,x2,HEC,HEC TPK,,,,,,,,,,,https://quasarzone.com/bbs/qc_qsz/views/876306,,,
+,DEEPCOOL,DP-BZ-DA500N,https://kakaku.com/item/K0001296615/,Bronze,ATX,140,fixed,x1,unknown,unknown,single sided,,,,,,,,,,,,,
+,DEEPCOOL,DP-BZ-DA600N,https://kakaku.com/item/K0001296616/,Bronze,ATX,140,fixed,x1,CWT,CWT GPK,single sided,,,,,,,,,,,,,
+,DEEPCOOL,DP-BZ-DA700N,https://kakaku.com/item/K0001296617/,Bronze,ATX,140,fixed,x1,CWT,CWT GPK,single sided,,,,,,,,,,,,,
+,DEEPCOOL,DP-GD-DQ750ST,https://www.deepcool.com/jp/product/powersupply/2018-07/2310_9066.shtml,Gold,ATX,140,fixed,x1,CWT,CWT GPS,single sided,,,,,,,,,,,,,
+,DEEPCOOL,"	R-PM750D-FA0B-JP",https://www.deepcool.com/jp/product/powersupply/2021-05/2310_14455.shtml,Gold,ATX,140,fixed,x2,CWT,,single sided,,,,,,,,,,,,,
+,DEEPCOOL,R-PM850D-FA0B-JP,https://jp.deepcool.com/products/PowerSupplyUnits/powersupplyunits/PM850D-80-PLUS-Gold-Power-Supply/2021/13034.shtml?status=authorization,Gold,ATX,140,fixed,x2,CWT,,single sided,,,,,,,,,,,,,
+,DEEPCOOL,DP-DQ750-M-V2L WH,https://kakaku.com/item/K0001308164/,Gold,ATX,160,full,x2,CWT,CWT GPX,double sided,,,,,,,,,,,,,
+,DEEPCOOL,DP-GD-DQ650-M-V2L,https://kakaku.com/item/K0001269015/,Gold,ATX,160,full,x1,CWT,CWT GPX,double sided,,,,,,,,,,,,,
+,DEEPCOOL,DP-GD-DQ750-M-V2L,https://kakaku.com/item/K0001269016/,Gold,ATX,160,full,x2,CWT,CWT GPX,double sided,,,,,,,,,,,,,
+,DEEPCOOL,DP-GD-DQ850-M-V2L,https://kakaku.com/item/K0001269017/,Gold,ATX,160,full,x2,CWT,CWT GPX,double sided,,,,,,,,,,,,,
+,DEEPCOOL,PQ750M R-PQ750M-FA0B-JP,https://kakaku.com/item/K0001408651/,Gold,ATX,140,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,DEEPCOOL,PQ850M R-PQ850M-FA0B-JP,https://kakaku.com/item/K0001408652/,Gold,ATX,140,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,DEEPCOOL,PQ1000M R-PQA00M-FA0B-JP,https://kakaku.com/item/K0001408653/,Gold,ATX,140,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,ENERMAX,CYBERBRON ECB500AWT,https://kakaku.com/item/K0001314163/,Bronze,ATX,140,fixed,x1,CWT,CWT GPM,single sided,,,,,,,,,,,,,
+,ENERMAX,CYBERBRON ECB600AWT,https://kakaku.com/item/K0001314164/,Bronze,ATX,140,fixed,x1,CWT,CWT GPM,single sided,,,,,,,,,,,,,
+,ENERMAX,CYBERBRON ECB700EWT,https://kakaku.com/item/K0001314165/,Bronze,ATX,140,fixed,x2,CWT,CWT GPM,single sided,,,,,,,,,,https://whatnext.pl/enermax-cyberbron-700w-test-recenzja-opinia/,,,
 discontinued,ENERMAX,RevoBron ERB500AWT,https://kakaku.com/item/K0001007783/,Bronze,ATX,140,semi,x1,CWT,CWT CSB,single sided,double forward,japanese 105c + 85c(105c?),Semi-synchronous Rectification + DC/DC,chemi-con 105c,Elite/APAQ,n/a,Enermax ED122512M-FD,n/a,-,https://web.archive.org/web/20190101162551/http://hardwareoverclock.com/Enermax-RevoBron-600-Watt-Netzteil-3.htm,http://www.jonnyguru.com/forums/showthread.php?14826-Enermax-Introduces-RevoBron-PSU-Line/page2,https://www.computerbase.de/2018-03/cooler-master-masterwatt-enermax-revobron-netzteil-test/2/,-
 discontinued,ENERMAX,RevoBron ERB600AWT,https://kakaku.com/item/K0001007784/,Bronze,ATX,140,semi,x1,CWT,CWT CSB,single sided,double forward,japanese 105c + 85c(105c?),Semi-synchronous Rectification + DC/DC,chemi-con 105c,Elite/APAQ,n/a,Enermax ED122512M-FD,n/a,-,https://www.overclockers.ua/power/enermax-revobron-erb600awt/,https://www.noticias3d.com/articulo.asp?idarticulo=2506&pag=2,https://i2hard.ru/publications/22500/,-
 ,ENERMAX,RevoBron TGA ERB500AWT TR,https://kakaku.com/item/K0001115461/,Bronze,ATX,140,semi,x1,CWT,CWT CSB,single sided,double forward,japanese 105c + 85c(105c?),Semi-synchronous Rectification + DC/DC,chemi-con 105c,Elite/APAQ,n/a,Enermax ED122512M-FD,n/a,-,https://nl.hardware.info/product/487443/enermax-revobron-tga-500w,-,-,-
 ,ENERMAX,RevoBron TGA ERB600AWT TR,https://kakaku.com/item/K0001115460/,Bronze,ATX,140,semi,x1,CWT,CWT CSB,single sided,double forward,japanese 105c + 85c(105c?),Semi-synchronous Rectification + DC/DC,chemi-con 105c,Elite/APAQ,n/a,Enermax ED122512M-FD,n/a,-,https://www.hardwareluxx.ru/index.php/artikel/hardware/netzteile/46181-enermax-revobron-600w-tga-edition-test.html?start=1,-,-,-
-,ENERMAX,RevoBron TGA ERB700AWT TR,https://kakaku.com/item/K0001115459/,Bronze,ATX,140,semi,x1,CWT,CWT CSB,single sided,double forward,japanese 105c + 85c,Semi-synchronous Rectification + DC/DC,chemi-con 105c,Elite/APAQ,n/a,Enermax ED122512H-FD,n/a,-,https://www.techpowerup.com/review/enermax-erb700awt/,-,-,-
+,ENERMAX,RevoBron TGA ERB700AWT TR,https://kakaku.com/item/K0001115459/,Bronze,ATX,140,semi,x1,CWT,CWT CSB-A,single sided,double forward,japanese 105c + 85c,Semi-synchronous Rectification + DC/DC,chemi-con 105c,Elite/APAQ,n/a,Enermax ED122512H-FD,n/a,-,https://www.techpowerup.com/review/enermax-erb700awt/,-,-,-
 discontinued,ENERMAX,Revolution DUO ERD500AWL-F,https://kakaku.com/item/K0000931692/,Gold,ATX,140,fixed,x1,Yue-Lin,unknown,single sided,half-bridge LLC,Teapo 85c,Synchronous Rectification + DC/DC,Teapo 105c,Teapo,n/a,Enermax ED1002512L-OA + ED0801512L-OA,n/a,-,https://hlamer.ru/video/742395-Enermax_REVOLUTION_DUO_500_watt_Obzor_s_razborom,-,-,-
 discontinued,ENERMAX,Revolution DUO ERD600AWL-F,https://kakaku.com/item/K0000931693/,Gold,ATX,140,fixed,x1,Yue-Lin,unknown,single sided,half-bridge LLC,Teapo 85c,Synchronous Rectification + DC/DC,Teapo 105c,Teapo,n/a,Enermax ED1002512L-OA + ED0801512L-OA,n/a,-,-,-,-,-
 discontinued,ENERMAX,Revolution DUO ERD700AWL-F,https://kakaku.com/item/K0000931694/,Gold,ATX,140,fixed,x1,Yue-Lin,unknown,single sided,half-bridge LLC,Teapo 85c,Synchronous Rectification + DC/DC,Teapo 105c,Teapo,n/a,Enermax ED1002512L-OA + ED0801512L-OA,n/a,-,https://www.hardocp.com/article/2017/02/21/enermax_revolution_duo_700w_power_supply_review/3,https://www.overclockers.ua/power/enermax-erd700awl-f/,-,-
-,ENERMAX,REVOLUTION D.F. ERF750EWT,https://kakaku.com/item/K0001135413/,Gold,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,ENERMAX,REVOLUTION D.F. ERF850EWT,https://kakaku.com/item/K0001135414/,Gold,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
+,ENERMAX,REVOLUTION D.F. ERF750EWT,https://kakaku.com/item/K0001135413/,Gold,ATX,160,full,x2,CWT,CWT GPU,double sided,,,,,,,,,,,,,
+,ENERMAX,REVOLUTION D.F. ERF850EWT,https://kakaku.com/item/K0001135414/,Gold,ATX,160,full,x2,CWT,CWT GPU,double sided,,,,,,,,,,,,,
 ,ENERMAX,Platimax D.F. EPF1050EWT,https://kakaku.com/item/K0000990788/,Platinum,ATX,160,full,Unknown,CWT,,,,,,,,,,,,,,,
 ,ENERMAX,Platimax D.F. EPF1200EWT,https://kakaku.com/item/K0000990787/,Platinum,ATX,160,full,Unknown,CWT,,,,,,,,,,,,,,,
 ,ENERMAX,Platimax EPM1350EWT,https://kakaku.com/item/K0000428848/,Platinum,ATX,180,full,x1,CWT,,,,,,,,,,,,,,,
@@ -165,17 +172,17 @@ discontinued,ENERMAX,Revolution DUO ERD700AWL-F,https://kakaku.com/item/K0000931
 ,Fractal Design,ION Gold 650W FD-P-IA2G-650,https://kakaku.com/item/K0001351644/,Gold,ATX,150,full,x1,Sirtec,,,,,,,,,,,,,,,
 ,Fractal Design,ION Gold 750W FD-P-IA2G-750,https://kakaku.com/item/K0001351645/,Gold,ATX,150,full,x1,Sirtec,,,,,,,,,,,,,,,
 ,Fractal Design,ION Gold 850W FD-P-IA2G-850,https://kakaku.com/item/K0001351646/,Gold,ATX,150,full,x1,Sirtec,,,,,,,,,,,,,,,
-,Fractal Design,ION SFX 500G FD-PSU-ION-SFX-500G-BK,https://kakaku.com/item/K0001205446/,Gold,ATX,125,full,x1,Seasonic,,,,,,,,,,,,,,,
-,Fractal Design,ION SFX 650G FD-PSU-ION-SFX-650G-BK,https://kakaku.com/item/K0001205445/,Gold,ATX,125,full,x1,Seasonic,,,,,,,,,,,,,,,
+,Fractal Design,ION SFX 500G FD-PSU-ION-SFX-500G-BK,https://kakaku.com/item/K0001205446/,Gold,ATX,125,full,x1,Seasonic,,,,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Fractal Design,ION SFX 650G FD-PSU-ION-SFX-650G-BK,https://kakaku.com/item/K0001205445/,Gold,ATX,125,full,x1,Seasonic,,,,,Synchronous Rectification + DC/DC,,,,,,,,,,
 ,Fractal Design,ION+ 560P FD-PSU-IONP-560P-BK,https://kakaku.com/item/K0001179318/,Platinum,ATX,150,full,x1,Sirtec,,,,,,,,,,,,,,,
 ,Fractal Design,ION+ 660P FD-PSU-IONP-660P-BK,https://kakaku.com/item/K0001179317/,Platinum,ATX,150,full,x1,Sirtec,,,,,,,,,,,,,,,
 ,Fractal Design,Ion+ 2 Platinum 560W FD-P-IA2P-560,https://kakaku.com/item/K0001377375/,Platinum,ATX,150,full,x1,Sirtec,,,,,,,,,,,,,,,
 ,Fractal Design,Ion+ 2 Platinum 660W FD-P-IA2P-660,https://kakaku.com/item/K0001377374/,Platinum,ATX,150,full,x1,Sirtec,,,,,,,,,,,,,,,
 ,Fractal Design,Ion+ 2 Platinum 760W FD-P-IA2P-760,https://kakaku.com/item/K0001377373/,Platinum,ATX,150,full,x1,Sirtec,,,,,,,,,,,,,,,
 ,Fractal Design,Ion+ 2 Platinum 860W FD-P-IA2P-860,https://kakaku.com/item/K0001377372/,Platinum,ATX,150,full,x1,Sirtec,,,,,,,,,,,,,,,
-,FSP,HEXA 85+ 450W HA450,https://kakaku.com/item/K0001307723/,Bronze,ATX,140,fixed,x1,FSP,,,,,,,,,,,,,,,
-,FSP,HEXA 85+ 550W HA550,https://kakaku.com/item/K0001307722/,Bronze,ATX,140,fixed,x1,FSP,,,,,,,,,,,,,,,
-,FSP,HEXA 85+ 650W HA650,https://kakaku.com/item/K0001307721/,Bronze,ATX,140,fixed,x1,FSP,,,,,,,,,,,,,,,
+,FSP,HEXA 85+ 450W HA450,https://kakaku.com/item/K0001307723/,Bronze,ATX,140,fixed,x1,FSP,HEXA 85+,single sided,,,,,,,,,,,,,
+,FSP,HEXA 85+ 550W HA550,https://kakaku.com/item/K0001307722/,Bronze,ATX,140,fixed,x1,FSP,HEXA 85+,single sided,,,,,,,,,,,,,
+,FSP,HEXA 85+ 650W HA650,https://kakaku.com/item/K0001307721/,Bronze,ATX,140,fixed,x1,FSP,HEXA 85+,single sided,,,,,,,,,,,,,
 discontinued,FSP,AURUM 92+ 550 PT-550M,https://kakaku.com/item/K0000464414/,Platinum,ATX,159,semi,x1,FSP,FSP Aurum 92+ ,double sided,Active-Clamp,Panasonic 105c,Synchronous Rectification + DC/DC,chemi-con 105c,n/a,n/a,PROTECHNIC MGA12012HF-A25,n/a,-,https://www.59hardware.net/articles/alimentations/alimentation-fsp-aurum-92%2B-550-w-2014082516389/all.html,https://nl.hardware.info/product/239405/fsp-aurum-92+-550w#reviews,-,-
 discontinued,FSP,AURUM 92+ 650 PT-650M,https://kakaku.com/item/K0000464415/,Platinum,ATX,159,semi,x1,FSP,FSP Aurum 92+ ,double sided,Active-Clamp,chemi-con 105c,Synchronous Rectification + DC/DC,chemi-con 105c,n/a,n/a,PROTECHNIC MGA12012HF-A25,n/a,-,https://www.hardwaresecrets.com/fsp-aurum-92-650-w-power-supply-review/5/,https://www.techpowerup.com/review/fsp-aurum-92-650w/4.html,https://www.tweaktown.com/reviews/5142/fsp_aurum_92_pt_650m_650w_80_plus_platinum_power_supply_review/index4.html,"https://www.tomshardware.co.uk/fsp-aurum-92-650w-80-plus-platinum,review-33101.html"
 ,FSP,AURUM S 400 AS-400,https://kakaku.com/item/K0000721805/,Gold,ATX,150,fixed,x1,FSP,FSP Raider,single sided?,Active-Clamp,Teapo 85c?,Synchronous Rectification + Group(5V/3.3V) Regulation,CapXon/Teapo 105c?,n/a,n/a,Yateloon D12SM-12,n/a,-,https://www.cnews.cz/test-zdroju-cast-2-enermax-revolution-xt-430-w-a-fsp-aurum-s-400-w/,https://www.dospara.co.jp/monotech/news/8100.html,-,-
@@ -187,23 +194,23 @@ discontinued,FSP,AURUM S 700 AS-700,https://kakaku.com/item/K0000721808/,Gold,AT
 ,FSP,RAIDER II 650W RA2-650,https://kakaku.com/item/K0000984298/,Silver,ATX,140,fixed,x1,FSP,FSP Raider II,single sided,Active-Clamp,japanese 105c,Synchronous Rectification + DC/DC,chemi-con/rubycon 105c,n/a,n/a,ADDA AD1212HS-A71GL,n/a,-,https://akiba-pc.watch.impress.co.jp/docs/mreview/rental/1107692.html,-,-,-
 ,FSP,RAIDER II 750W RA2-750,https://kakaku.com/item/K0000984299/,Silver,ATX,140,fixed,x1,FSP,FSP Raider II,single sided,Active-Clamp,japanese 105c,Synchronous Rectification + DC/DC,chemi-con/rubycon 105c,n/a,n/a,ADDA AD1212HS-A71GL,n/a,-,http://www.gdm.or.jp/review/2017/1106/239442/3,-,-,-
 discontinued,FSP,RAIDER RA-500B,https://kakaku.com/item/K0001099759/,Bronze,ATX,140,fixed,x1,FSP,FSP Hyper,single sided,Active-Clamp,CapXon 85c,Group Regulation,CapXon/Teapo(+5VSB) 105c,n/a,n/a,n/a,n/a,-,https://value-kaden.com/ra-500b/,https://download1.getuploader.com/g/7%7Cdengensure/139/RA-500B.jpg,-,-
-,FSP,DAGGER PRO 550W SDA2-550,https://kakaku.com/item/K0001374994/,Gold,SFX,100,full,x1,FSP,,,,,,,,,,,,,,,
-,FSP,DAGGER PRO 650W SDA2-650,https://kakaku.com/item/K0001374993/,Gold,SFX,100,full,x1,FSP,,,,,,,,,,,,,,,
-,FSP,DAGGER PRO 750W SDA2-750,https://kakaku.com/item/K0001374992/,Gold,SFX,100,full,x2,FSP,,,,,,,,,,,,,,,
-,FSP,DAGGER PRO 850W SDA2-850,https://kakaku.com/item/K0001374991/,Gold,SFX,100,full,x2,FSP,,,,,,,,,,,,,,,
+,FSP,DAGGER PRO 550W SDA2-550,https://kakaku.com/item/K0001374994/,Gold,SFX,100,full,x1,FSP,FSP Dagger Pro,,,,,,,,,,,,,,
+,FSP,DAGGER PRO 650W SDA2-650,https://kakaku.com/item/K0001374993/,Gold,SFX,100,full,x1,FSP,FSP Dagger Pro,,,,,,,,,,,,,,
+,FSP,DAGGER PRO 750W SDA2-750,https://kakaku.com/item/K0001374992/,Gold,SFX,100,full,x2,FSP,FSP Dagger Pro,,,,,,,,,,,,,,
+,FSP,DAGGER PRO 850W SDA2-850,https://kakaku.com/item/K0001374991/,Gold,SFX,100,full,x2,FSP,FSP Dagger Pro,,,,,,,,,,,,,,
 ,FSP,Hydro G PRO 1000W HG2-1000,https://kakaku.com/item/K0001323054/,Gold,ATX,150,full,x2,FSP,,,,,,,,,,,,,,,
 ,FSP,Hydro G PRO 850W HG2-850,https://kakaku.com/item/K0001323053/,Gold,ATX,150,full,x2,FSP,,,,,,,,,,,,,,,
 ,FSP,Hydro GE 850W HGE850,https://kakaku.com/item/K0001186323/,Gold,ATX,170,full,x1,FSP,,,,,,,,,,,,,,,
-,FSP,Hydro GSM Lite PRO 550W HGS-550M,https://kakaku.com/item/K0001307718/,Gold,ATX,140,fixed,x2,FSP,,,,,,,,,,,,,,,
-,FSP,Hydro GSM Lite PRO 650W HGS-650M,https://kakaku.com/item/K0001307717/,Gold,ATX,140,fixed,x2,FSP,,,,,,,,,,,,,,,
-,FSP,Hydro GSM Lite PRO 750W HGS-750M,https://kakaku.com/item/K0001307716/,Gold,ATX,140,fixed,x2,FSP,,,,,,,,,,,,,,,
+,FSP,Hydro GSM Lite PRO 550W HGS-550M,https://kakaku.com/item/K0001307718/,Gold,ATX,140,fixed,x2,FSP,Hydro GSM,,,,,,,,,,,,,,
+,FSP,Hydro GSM Lite PRO 650W HGS-650M,https://kakaku.com/item/K0001307717/,Gold,ATX,140,fixed,x2,FSP,Hydro GSM,,,,,,,,,,,,,,
+,FSP,Hydro GSM Lite PRO 750W HGS-750M,https://kakaku.com/item/K0001307716/,Gold,ATX,140,fixed,x2,FSP,Hydro GSM,,,,,,,,,,,,,,
 ,FSP,Hydro PT 650W HPT650,https://kakaku.com/item/K0001282534/,Platinum,ATX,170,full,x1,FSP,,,,,,,,,,,,,,,
 ,FSP,Hydro PT 750W HPT750,https://kakaku.com/item/K0001282535/,Platinum,ATX,170,full,x2,FSP,,,,,,,,,,,,,,,
 ,FSP,Hydro PTM PRO 1000W HPT2-1000M,https://kakaku.com/item/K0001307714/,Platinum,ATX,190,full,x3,FSP,,,,,,,,,,,,,,,
 ,FSP,Hydro PTM PRO 1200W HPT2-1200M,https://kakaku.com/item/K0001356451/,Platinum,ATX,190,full,x3,FSP,,,,,,,,,,,,,,,
 ,FSP,Hydro PTM PRO 850W HPT2-850M,https://kakaku.com/item/K0001307715/,Platinum,ATX,190,full,x3,FSP,,,,,,,,,,,,,,,
-,FSP,Hydro S 650W HS-650,https://kakaku.com/item/K0001307720/,Silver,ATX,140,fixed,x2,FSP,,,,,,,,,,,,,,,
-,FSP,Hydro S 750W HS-750,https://kakaku.com/item/K0001307719/,Silver,ATX,140,fixed,x2,FSP,,,,,,,,,,,,,,,
+,FSP,Hydro S 650W HS-650,https://kakaku.com/item/K0001307720/,Silver,ATX,140,fixed,x2,FSP,FSP Raider II,,,,,,,,,,,,,,
+,FSP,Hydro S 750W HS-750,https://kakaku.com/item/K0001307719/,Silver,ATX,140,fixed,x2,FSP,FSP Raider II,,,,,,,,,,,,,,
 ,FSP,Twins PRO 700W FSP700-50RAB,https://kakaku.com/item/K0001374995/,Gold,ATX,190,fixed,x2,FSP,,,,,,,,,,,,,,,
 discontinued,GAMDIAS,ASTRAPE M1-650B,https://kakaku.com/item/K0001054371/,Bronze,ATX,140,fixed,x1,Andyson,(Xigmatek Marverick S),single sided,double forward,Teapo 85c,Passive Rectification + Group Regulation,JunFu 105c,n/a,n/a,POWERYEAR PY-1225H12S,n/a,-,https://akiba-pc.watch.impress.co.jp/docs/sp/1134311.html,http://www.f14lab.com/2018/12/review-gamdias-astrape-m1-80plus.html,-,-
 discontinued,GAMDIAS,KRATOS M1-600B,https://kakaku.com/item/K0001139417/,Bronze,ATX,140,fixed,x1,Andyson?,unknown,unknown,unknown,unknown,unknown,unknown,unknown,n/a,unknown,n/a,-,-,-,-,-
@@ -225,20 +232,21 @@ discontinued,HEC,WIN+ POWER 3s HEC-WN3S-600W,https://kakaku.com/item/K0000851708
 discontinued,KEIAN,GORI-MAX3 KT-S650-12A2,https://kakaku.com/item/K0000747446/,Standard,ATX,140,fixed,x1,Comstars,unknown,single sided,unknown,unknown,unknown,unknown,unknown,unknown,unknown,n/a,-,-,-,-,-
 discontinued,KEIAN,自作本舗 KT-450PS3,https://kakaku.com/item/K0000836004/,Not Certified,ATX,140,fixed,x1,Comstars,unknown,single sided,unknown,unknown,unknown,unknown,unknown,unknown,unknown,n/a,-,-,-,-,-
 discontinued,KEIAN,静か Gold KT-AP600-AXG HC,https://kakaku.com/item/K0000927231/,Gold,ATX,140,fixed,x1,Comstars,unknown,single sided,double forward,Teapo 105c,Passive Rectification + DC/DC,unknown,unknown,n/a,unknown,n/a,-,https://review.kakaku.com/review/K0000927231/ReviewCD=1071846/,-,-,-
-,LIAN LI,PE-550,https://kakaku.com/item/K0000877506/,Gold,SFX-L,130,full,x1,Enhance,,,,,,,,,,,,,,,
-,MSI,MAG A550BN,https://kakaku.com/item/K0001378164/,Bronze,ATX,140,fixed,x1,CWT,,,,,,,,,,,,,,,
-,MSI,MAG A650BN,https://kakaku.com/item/K0001378163/,Bronze,ATX,140,fixed,x1,CWT,,,,,,,,,,,,,,,
-,MSI,MPG A750GF,https://kakaku.com/item/K0001335617/,Gold,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,MSI,MPG A850GF,https://kakaku.com/item/K0001335616/,Gold,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,NZXT,Cシリーズ C650 NP-C650M-JP,https://kakaku.com/item/K0001277800/,Gold,ATX,150,full,x2,Seasonic,,,,,,,,,,,,,,,
-,NZXT,Cシリーズ C750 NP-C750M-JP,https://kakaku.com/item/K0001277799/,Gold,ATX,150,full,x2,Seasonic,,,,,,,,,,,,,,,
-,NZXT,Cシリーズ C850 NP-C850M-JP,https://kakaku.com/item/K0001269786/,Gold,ATX,150,full,x2,Seasonic,,,,,,,,,,,,,,,
-,NZXT,E Series E850 NP-1PM-E850A,https://kakaku.com/item/K0001079945/,Gold,ATX,150,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Phanteks,REVOLT PRO PSU PH-P1000GC,https://kakaku.com/item/K0001340452/,Gold,ATX,170,full,x1,Seasonic,,,,,,,,,,,,,,,
-,Phanteks,REVOLT X PSU PH-P1200PS,https://kakaku.com/item/K0001113235/,Platinum,ATX,170,full,x4,Seasonic,,,,,,,,,,,,,,,
+discontinued,LIAN LI,PE-550,https://kakaku.com/item/K0000877506/,Gold,SFX-L,130,full,x1,Enhance,,,,,,,,,,,,,,,
+,LIAN LI,SP750,https://www.dirac.co.jp/sp750/,Gold,SFX,100,full,x2,HELLY,,,,,,,,,,,,,,,
+,MSI,MAG A550BN,https://kakaku.com/item/K0001378164/,Bronze,ATX,140,fixed,x1,CWT,CWT CSB,single sided,,,,,,,,,,https://www.f14lab.org/2021/10/review-msi-mag-a550bn-550w.html,,,
+,MSI,MAG A650BN,https://kakaku.com/item/K0001378163/,Bronze,ATX,140,fixed,x1,CWT,CWT CSB,single sided,,,,,,,,,,,,,
+,MSI,MPG A750GF,https://kakaku.com/item/K0001335617/,Gold,ATX,160,full,x2,CWT,CWT GPU,double sided,,,,,,,,,,,,,
+,MSI,MPG A850GF,https://kakaku.com/item/K0001335616/,Gold,ATX,160,full,x2,CWT,CWT GPU,double sided,,,,,,,,,,,,,
+,NZXT,Cシリーズ C650 NP-C650M-JP,https://kakaku.com/item/K0001277800/,Gold,ATX,150,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,NZXT,Cシリーズ C750 NP-C750M-JP,https://kakaku.com/item/K0001277799/,Gold,ATX,150,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,NZXT,Cシリーズ C850 NP-C850M-JP,https://kakaku.com/item/K0001269786/,Gold,ATX,150,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,NZXT,E Series E850 NP-1PM-E850A,https://kakaku.com/item/K0001079945/,Gold,ATX,150,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Phanteks,REVOLT PRO PSU PH-P1000GC,https://kakaku.com/item/K0001340452/,Gold,ATX,170,full,x1,Seasonic,Seasonic PRIME GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Phanteks,REVOLT X PSU PH-P1200PS,https://kakaku.com/item/K0001113235/,Platinum,ATX,170,full,x4,Seasonic,Seasonic PRIME PX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
 discontinued,RAIDMAX,Cobra Power RX-600AE-M,https://kakaku.com/item/K0001021590/,Gold,ATX,163,full,x1,Andyson,(Aerocool KCAS G),single sided,double forward,? japanese 105c,? Passive Rectification + DC/DC,? Teapo 105c,unknown,n/a,? POWERYEAR PY-13525H12S,n/a,-,-,-,-,-
 discontinued,RAIDMAX,Cobra Power RX-800AE-M,https://kakaku.com/item/K0001021591/,Gold,ATX,163,full,x1,Andyson,(Aerocool KCAS G),single sided,double forward,japanese 105c,? Passive Rectification + DC/DC,Teapo 105c,unknown,n/a,POWERYEAR PY-13525H12S,n/a,-,https://www.overclockers.ua/power/raidmax-cobra-rx-800ae/,-,-,-
-,RAIDMAX,Thunder RGB RX-535AP-R,https://kakaku.com/item/K0001021588/,Bronze,ATX,165,semi,x1,Andyson,(Xigmatek Marverick S),single sided,double forward,? Teapo 85c,Passive Rectification + Group Regulation,? JunFu 105c,n/a,n/a,? POWERYEAR PY-13525M12S,n/a,-,-,-,-,-
+discontinued,RAIDMAX,Thunder RGB RX-535AP-R,https://kakaku.com/item/K0001021588/,Bronze,ATX,165,semi,x1,Andyson,(Xigmatek Marverick S),single sided,double forward,? Teapo 85c,Passive Rectification + Group Regulation,? JunFu 105c,n/a,n/a,? POWERYEAR PY-13525M12S,n/a,-,-,-,-,-
 discontinued,RAIDMAX,Thunder RGB RX-735AP-R,https://kakaku.com/item/K0001021589/,Bronze,ATX,165,semi,x1,Andyson,(Xigmatek Marverick S),single sided,double forward,Teapo 85c,Passive Rectification + Group Regulation,JunFu 105c,n/a,n/a,POWERYEAR PY-13525M12S,n/a,-,https://www.overclockers.ua/power/raidmax-thunder-rgb-rx-735ap-r/,-,-,-
 ,Scythe,CORE-SFX300,https://kakaku.com/item/K0000643353/,Not Certified,SFX,100,fixed,-,unknown,unknown,single sided,unknown,unknown,unknown,unknown,unknown,n/a,QHD 80mm,n/a,-,http://hatoka.blog.fc2.com/blog-entry-60.html,-,-,-
 ,Scythe,CORE-TFX275,https://kakaku.com/item/K0000933818/,Not Certified,TFX,175,fixed,-,unknown,unknown,single sided,unknown,unknown,unknown,unknown,unknown,n/a,QHD QH8020SE 12M,n/a,-,https://sarashina.info/pc/vostrodengen.html,-,-,-
@@ -250,71 +258,67 @@ discontinued,Scythe,剛短3 プラグイン SPGT3-400P,https://kakaku.com/item/K
 ,Scythe,剛短4 プラグイン SPGT4-700P,https://kakaku.com/item/K0001119174/,Bronze,ATX,125,semi,x1,Sirtec,Sirtec Element Smart,single sided,double forward,unknown,Passive Rectification + Group Regulation,unknown 105c,n/a,n/a,unknown,n/a,-,-,-,-,-
 discontinued,Seasonic,SSR-450FM,https://kakaku.com/item/K0001042495/,Gold,ATX,140,semi,x1,Seasonic,Seasonic Focus Gold,double sided,full-bridge LLC,japanese 105c,Synchronous Rectification + DC/DC,japanese 105c,chemi-con or FPCAP,FPCAP/Enesol,HongHua HA1225M12F-Z,n/a,-,http://www.f14lab.com/2018/04/review-seasonic-focus-gold-450w.html,-,-,-
 ,Seasonic,SSR-550FM,https://kakaku.com/item/K0001042496/,Gold,ATX,140,semi,x1,Seasonic,Seasonic Focus Gold,double sided,full-bridge LLC,japanese 105c,Synchronous Rectification + DC/DC,japanese 105c,chemi-con or FPCAP,FPCAP/Enesol,HongHua HA1225H12F-Z,n/a,-,https://review.kakaku.com/review/K0001042496/ReviewCD=1191453/ImageID=443813/,-,-,-
-,Seasonic,FOCUS-GM-550,https://kakaku.com/item/K0001238313/,Gold,ATX,140,full,x1,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,FOCUS-GM-650,https://kakaku.com/item/K0001238314/,Gold,ATX,140,full,x1,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,FOCUS-GM-750,https://kakaku.com/item/K0001238315/,Gold,ATX,140,full,x1,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,FOCUS-GM-850,https://kakaku.com/item/K0001238316/,Gold,ATX,140,full,x1,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,FOCUS-GX-650,https://kakaku.com/item/K0001238310/,Gold,ATX,140,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,FOCUS-GX-650S,https://kakaku.com/item/K0001346034/,Gold,ATX,140,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,FOCUS-GX-750,https://kakaku.com/item/K0001238311/,Gold,ATX,140,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,FOCUS-GX-750S,https://kakaku.com/item/K0001346035/,Gold,ATX,140,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,FOCUS-GX-850,https://kakaku.com/item/K0001238312/,Gold,ATX,140,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,FOCUS-GX-850S,https://kakaku.com/item/K0001346036/,Gold,ATX,140,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,FOCUS-PX-650,https://kakaku.com/item/K0001238307/,Platinum,ATX,140,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,FOCUS-PX-750,https://kakaku.com/item/K0001238308/,Platinum,ATX,140,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,FOCUS-PX-750S,https://kakaku.com/item/K0001346037/,Platinum,ATX,140,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,FOCUS-PX-850,https://kakaku.com/item/K0001238309/,Platinum,ATX,140,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,FOCUS-PX-850S,https://kakaku.com/item/K0001346038/,Platinum,ATX,140,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,PRIME-PX-1000S,https://kakaku.com/item/K0001346032/,Platinum,ATX,170,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,PRIME-TX-650,https://kakaku.com/item/K0001257476/,Titanium,ATX,170,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,PRIME-TX-750,https://kakaku.com/item/K0001257477/,Titanium,ATX,170,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,PRIME-TX-850,https://kakaku.com/item/K0001257478/,Titanium,ATX,170,full,x2,Seasonic,,,,,,,,,,,,,,,
-,Seasonic,PRIME-TX-850S,https://kakaku.com/item/K0001346033/,Titanium,ATX,170,full,x2,Seasonic,,,,,,,,,,,,,,,
+,Seasonic,FOCUS-GM-550,https://kakaku.com/item/K0001238313/,Gold,ATX,140,full,x1,Seasonic,Seasonic Focus GM,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,FOCUS-GM-650,https://kakaku.com/item/K0001238314/,Gold,ATX,140,full,x1,Seasonic,Seasonic Focus GM,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,FOCUS-GM-750,https://kakaku.com/item/K0001238315/,Gold,ATX,140,full,x1,Seasonic,Seasonic Focus GM,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,FOCUS-GM-850,https://kakaku.com/item/K0001238316/,Gold,ATX,140,full,x1,Seasonic,Seasonic Focus GM,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,FOCUS-GX-650,https://kakaku.com/item/K0001238310/,Gold,ATX,140,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,FOCUS-GX-650S,https://kakaku.com/item/K0001346034/,Gold,ATX,140,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,FOCUS-GX-750,https://kakaku.com/item/K0001238311/,Gold,ATX,140,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,FOCUS-GX-750S,https://kakaku.com/item/K0001346035/,Gold,ATX,140,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,FOCUS-GX-850,https://kakaku.com/item/K0001238312/,Gold,ATX,140,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,FOCUS-GX-850S,https://kakaku.com/item/K0001346036/,Gold,ATX,140,full,x2,Seasonic,Seasonic Focus GX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,FOCUS-PX-650,https://kakaku.com/item/K0001238307/,Platinum,ATX,140,full,x2,Seasonic,Seasonic Focus PX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,FOCUS-PX-750,https://kakaku.com/item/K0001238308/,Platinum,ATX,140,full,x2,Seasonic,Seasonic Focus PX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,FOCUS-PX-750S,https://kakaku.com/item/K0001346037/,Platinum,ATX,140,full,x2,Seasonic,Seasonic Focus PX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,FOCUS-PX-850,https://kakaku.com/item/K0001238309/,Platinum,ATX,140,full,x2,Seasonic,Seasonic Focus PX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,FOCUS-PX-850S,https://kakaku.com/item/K0001346038/,Platinum,ATX,140,full,x2,Seasonic,Seasonic Focus PX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,PRIME-PX-1000S,https://kakaku.com/item/K0001346032/,Platinum,ATX,170,full,x2,Seasonic,Seasonic PRIME PX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,PRIME-TX-650,https://kakaku.com/item/K0001257476/,Titanium,ATX,170,full,x2,Seasonic,Seasonic PRIME TX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,PRIME-TX-750,https://kakaku.com/item/K0001257477/,Titanium,ATX,170,full,x2,Seasonic,Seasonic PRIME TX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,PRIME-TX-850,https://kakaku.com/item/K0001257478/,Titanium,ATX,170,full,x2,Seasonic,Seasonic PRIME TX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Seasonic,PRIME-TX-850S,https://kakaku.com/item/K0001346033/,Titanium,ATX,170,full,x2,Seasonic,Seasonic PRIME TX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
 discontinued,Sharkoon,SHA-SFX450B,https://kakaku.com/item/K0000746880/,Bronze,SFX,100,semi,x1,Sirtec,Sirtec Compact SFX Bronze,single sided,double forward,unknown,Passive Rectification + Group Regulation,TEAPO 105c,n/a,n/a,unknown,n/a,-,https://www.dospara.co.jp/monotech/news/12445.html,-,-,-
 ,Shuttle,PC63JV2,https://kakaku.com/item/K0001202148/,Silver,Proprietary,200,fixed,x1,,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-EX500-B,https://kakaku.com/item/K0001376478/,Bronze,ATX,100,fixed,x1,CWT,,,,,,,,,,,,,,,
 discontinued,SILVERSTONE,SST-ET500-B,https://kakaku.com/item/K0001254508/,Bronze,ATX,140,fixed,x1,CWT,CWT GPK,single sided,double forward,unknown,Passive Rectification + Group Regulation,unknown 105c,n/a,n/a,unknown,n/a,-,-,-,-,-
+,SILVERSTONE,SST-ET500-ARGB,https://www.dirac.co.jp/sst-et500-argb/,Bronze,ATX,140,fixed,x1,CWT,CWT GPM,single sided,double forward,,Passive Rectification + Group Regulation,,,,,,,,,,
 ,SILVERSTONE,SST-ET550-B,https://kakaku.com/item/K0000966592/,Bronze,ATX,140,fixed,x1,CWT,CWT GPK,single sided,double forward,japanese 105c,Passive Rectification + Group Regulation,? CapXon/JunFu 105c,n/a,n/a,? HongHua HA1225H12S-Z,n/a,-,-,-,-,-
-,SILVERSTONE,SST-ET550-G,https://kakaku.com/item/K0000993123/,Gold,ATX,140,fixed,x1,CWT,CWT GPS,single sided,half-bridge LLC,japanese 105c?,Synchronous Rectification + DC/DC,unknown 105c,unknown,n/a,unknown,n/a,-,-,-,-,-
-,SILVERSTONE,SST-ET550-HG-Rev,https://kakaku.com/item/K0001308908/,Gold,ATX,160,semi,x1,CWT,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-ET550-HG,https://kakaku.com/item/K0001017317/,Gold,ATX,160,semi,x1,CWT,CWT GPS,single sided,half-bridge LLC,japanese 105c,Synchronous Rectification + DC/DC,? CapXon/Su'scon/JunFu/ChengX 105c,? APAQ/Elite,n/a,? Yateloon D14SM-12,n/a,-,-,-,-,-
-,SILVERSTONE,SST-ET500-MG,https://kakaku.com/item/K0001311026/,Gold,ATX,165,full,x1,Andyson,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-ET600-MG,https://kakaku.com/item/K0001343424/,Gold,ATX,165,full,x1,Andyson,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-ET650-B,https://kakaku.com/item/K0000966591/,Bronze,ATX,140,fixed,x1,CWT,CWT GPK,single sided,double forward,japanese 105c,Passive Rectification + Group Regulation,CapXon/JunFu 105c,n/a,n/a,HongHua HA1225H12S-Z,n/a,-,http://www.realhardtechx.com/index_archivos/SILVERSTONE_Essential_series_ET650_B_650W_5.html,-,-,-
-,SILVERSTONE,SST-ET650-G,https://kakaku.com/item/K0000993124/,Gold,ATX,140,fixed,x1,CWT,CWT GPS,single sided,half-bridge LLC,japanese 105c?,Synchronous Rectification + DC/DC,unknown 105c,unknown,n/a,unknown,n/a,-,-,-,-,-
+,SILVERSTONE,SST-ET750-B,https://kakaku.com/item/K0001218764/,Bronze,ATX,140,fixed,x1,CWT,CWT GPK,single sided,,,,,,,,,,,,,
+,SILVERSTONE,SST-ET750-B-Rev,https://kakaku.com/item/K0001334080/,Bronze,ATX,140,fixed,x1,CWT,CWT GPK,single sided,,,,,,,,,,,,,
+,SILVERSTONE,SST-ET550-G,https://kakaku.com/item/K0000993123/,Gold,ATX,140,fixed,x1,CWT,CWT GPS,single sided,half-bridge LLC,japanese 105c?,Synchronous Rectification + DC/DC,unknown 105c,unknown,n/a,unknown,n/a,-,https://ascii.jp/elem/000/004/054/4054937/3/,-,-,-
+,SILVERSTONE,SST-ET550-HG,https://kakaku.com/item/K0001017317/,Gold,ATX,160,semi,x1,CWT,CWT GPS,single sided,half-bridge LLC,japanese 105c,Synchronous Rectification + DC/DC,? CapXon/Su'scon/JunFu/ChengX 105c,? APAQ/Elite,n/a,? Yateloon D14SM-12,n/a,-,-,-,-,-
+,SILVERSTONE,SST-ET550-HG-Rev,https://kakaku.com/item/K0001308908/,Gold,ATX,160,semi,x1,CWT,CWT GPS,single sided,,,,,,,,,,,,,
+,SILVERSTONE,SST-ET650-G,https://kakaku.com/item/K0000993124/,Gold,ATX,140,fixed,x1,CWT,CWT GPS,single sided,half-bridge LLC,japanese 105c?,Synchronous Rectification + DC/DC,unknown 105c,unknown,n/a,unknown,n/a,-,https://ascii.jp/elem/000/004/054/4054937/3/,-,-,-
 ,SILVERSTONE,SST-ET650-HG,https://kakaku.com/item/K0001017318/,Gold,ATX,160,semi,x1,CWT,CWT GPS,single sided,half-bridge LLC,japanese 105c,Synchronous Rectification + DC/DC,? CapXon/Su'scon/JunFu/ChengX 105c,? APAQ/Elite,n/a,? Yateloon D14SM-12,n/a,-,-,-,-,-
-,SILVERSTONE,SST-ET650-HG-Rev,https://kakaku.com/item/K0001308909/,Gold,ATX,160,semi,x1,CWT,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-ET750-B,https://kakaku.com/item/K0001218764/,Bronze,ATX,140,fixed,x1,CWT,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-ET750-B-Rev,https://kakaku.com/item/K0001334080/,Bronze,ATX,140,fixed,x1,CWT,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-ET750-G,https://kakaku.com/item/K0000993125/,Gold,TFX,140,fixed,x1,CWT,CWT GPS,single sided,half-bridge LLC,japanese 105c?,Synchronous Rectification + DC/DC,unknown 105c,unknown,n/a,unknown,n/a,-,-,-,-,-
+,SILVERSTONE,SST-ET650-HG-Rev,https://kakaku.com/item/K0001308909/,Gold,ATX,160,semi,x1,CWT,CWT GPS,single sided,,,,,,,,,,,,,
+,SILVERSTONE,SST-ET750-G,https://kakaku.com/item/K0000993125/,Gold,TFX,140,fixed,x1,CWT,CWT GPS,single sided,half-bridge LLC,japanese 105c?,Synchronous Rectification + DC/DC,unknown 105c,unknown,n/a,unknown,n/a,-,https://ascii.jp/elem/000/004/054/4054937/3/,-,-,-
 ,SILVERSTONE,SST-ET750-HG,https://kakaku.com/item/K0001017319/,Gold,ATX,160,semi,x1,CWT,CWT GPS,single sided,half-bridge LLC,japanese 105c,Synchronous Rectification + DC/DC,CapXon/Su'scon/JunFu/ChengX 105c,APAQ/Elite,n/a,Yateloon D14SM-12,n/a,-,https://www.profesionalreview.com/2018/06/03/silverstone-et750-hg-gold-review/,https://tecnolocura.es/silverstone-et750-hg-psu-review/,https://aphnetworks.com/reports/silverstone-essential-gold-et750-hg-750w/3,https://bit-tech.net/reviews/tech/psus/silverstone-essential-gold-750w-review/1/
+,SILVERSTONE,SST-ET750-HG-Rev,https://kakaku.com/item/K0001308910/,Gold,ATX,160,semi,x1,CWT,CWT GPS,single sided,,,,,,,,,,,,,
 discontinued,SILVERSTONE,SST-ST40F-ESB,https://kakaku.com/item/K0000738815/,Bronze,ATX,140,fixed,x1,Enhance,Enhance ATX1200B,single sided,double forward,unknown,Passive Rectification + Group Regulation,unknown 105c,n/a,n/a,unknown,n/a,V2,https://www.silverstonetek.com/product.php?pid=556,-,-,-
 discontinued,SILVERSTONE,SST-ST50F-ESB,https://kakaku.com/item/K0000738816/,Bronze,ATX,140,fixed,x1,Enhance,Enhance ATX1200B,single sided,double forward,unknown,Passive Rectification + Group Regulation,unknown 105c,n/a,n/a,unknown,n/a,V2,https://www.silverstonetek.com/product.php?pid=557,-,-,-
 ,SILVERSTONE,SST-ST50F-ESB-V2,https://kakaku.com/item/K0001215999/,Bronze,ATX,140,fixed,x1,Enhance,Enhance ATX1200B,single sided,double forward,unknown,Passive Rectification + Group Regulation,unknown 105c,n/a,n/a,unknown,n/a,V2,https://www.silverstonetek.com/product.php?pid=557,-,-,-
-,SILVERSTONE,SST-ST50F-ESG,https://kakaku.com/item/K0000614642/,Gold,ATX,140,semi,x1,FSP,FSP Raider,single sided,Active-Clamp,Panasonic 105c,Synchronous Rectification + Group(5V/3.3V) Regulation,chemi-con/rubycon 105c,n/a,n/a,Yateloon D12SM-12,n/a,-,https://www.%65xpreview.com/32812-all.html,https://lab501.ro/carcase-surse/silverstone-strider-essential-gold-500w-st50f-esg-review/3,-,-
 discontinued,SILVERSTONE,SST-ST60F-ESB,https://kakaku.com/item/K0000614644/,Bronze,ATX,140,fixed,x1,Enhance,Enhance ATX1200B,single sided,double forward,unknown,Passive Rectification + Group Regulation,unknown 105c,n/a,n/a,unknown,n/a,V2,https://www.silverstonetek.com/product.php?pid=463,-,-,-
-,SILVERSTONE,SST-ST60F-PB,https://kakaku.com/item/K0000723873/,Bronze,ATX,140,semi,x1,Enhance,Enhance ATX1200B,single sided,double forward,Teapo 85c,Passive Rectification + Group Regulation,Teapo/TAICON 105c,n/a,unknown,Yateloon D12SH-12,n/a,-,https://nl.hardware.info/product/275000/silverstone-strider-plus-600w,http://www.tweaks.pl/zasilacze/siverstone-strider-plus-st60f-pb-600w-test-modularnego-zasilacza/3/,https://www.ix%62t.com/power/psu/silverstone-st60f-pb-2015.shtml,-
 ,SILVERSTONE,SST-ST70F-ESB,https://kakaku.com/item/K0000614643/,Bronze,ATX,140,semi,x1,Enhance,Enhance ATX1200B,single sided,double forward,unknown,Passive Rectification + Group Regulation,unknown 105c,n/a,n/a,unknown,n/a,-,https://www.silverstonetek.com/product.php?pid=464&area=jp,-,-,-
+discontinued,SILVERSTONE,SST-ST50F-ESG,https://kakaku.com/item/K0000614642/,Gold,ATX,140,semi,x1,FSP,FSP Raider,single sided,Active-Clamp,Panasonic 105c,Synchronous Rectification + Group(5V/3.3V) Regulation,chemi-con/rubycon 105c,n/a,n/a,Yateloon D12SM-12,n/a,-,https://www.%65xpreview.com/32812-all.html,https://lab501.ro/carcase-surse/silverstone-strider-essential-gold-500w-st50f-esg-review/3,-,-
+,SILVERSTONE,SST-ET500-MG,https://kakaku.com/item/K0001311026/,Gold,ATX,165,full,x1,Andyson,,,,,,,,,,,,,,,
+,SILVERSTONE,SST-ET600-MG,https://kakaku.com/item/K0001343424/,Gold,ATX,165,full,x1,Andyson,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-ET700-MG,https://kakaku.com/item/K0001259598/,Gold,ATX,165,full,x1,Andyson,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-ET750-G,https://kakaku.com/item/K0000993125/,Gold,ATX,140,fixed,Unknown,CWT,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-ET750-HG,https://kakaku.com/item/K0001017319/,Gold,ATX,160,semi,x1,CWT,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-ET750-HG-Rev,https://kakaku.com/item/K0001308910/,Gold,ATX,160,semi,x1,CWT,,,,,,,,,,,,,,,
+discontinued,SILVERSTONE,SST-ST60F-PB,https://kakaku.com/item/K0000723873/,Bronze,ATX,140,semi,x1,Enhance,Enhance ATX1200B,single sided,double forward,Teapo 85c,Passive Rectification + Group Regulation,Teapo/TAICON 105c,n/a,unknown,Yateloon D12SH-12,n/a,-,https://nl.hardware.info/product/275000/silverstone-strider-plus-600w,http://www.tweaks.pl/zasilacze/siverstone-strider-plus-st60f-pb-600w-test-modularnego-zasilacza/3/,https://www.ix%62t.com/power/psu/silverstone-st60f-pb-2015.shtml,-
 ,SILVERSTONE,SST-ST55F-PB,https://kakaku.com/item/K0001238186/,Bronze,ATX,140,full,x1,Sirtec,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-ST65F-PB,https://kakaku.com/item/K0001238185/,Bronze,ATX,140,full,x1,Sirtec,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-ST75F-PB,https://kakaku.com/item/K0001238184/,Bronze,ATX,140,full,x1,Sirtec,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-ST65F-GS,https://kakaku.com/item/K0001228172/,Gold,ATX,140,full,x1,Sirtec,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-ST65F-G-V2,https://kakaku.com/item/K0001216000/,Gold,ATX,140,full,x1,Sirtec,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-ST75F-GS V3,https://kakaku.com/item/K0001136339/,Gold,ATX,140,full,x2,Enhance,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-ST85F-GS,https://kakaku.com/item/K0000585788/,Gold,ATX,150,full,x2,Enhance,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-ST85F-GS V2,https://kakaku.com/item/K0001238187/,Gold,ATX,140,full,x2,Sirtec,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-DA550-G,https://kakaku.com/item/K0001335775/,Gold,ATX,140,full,x2,CWT,CWT GPX,,,,,,,,,,,,,,
-,SILVERSTONE,SST-DA650-G,https://kakaku.com/item/K0001335776/,Gold,ATX,140,full,x2,CWT,CWT GPX,,,,,,,,,,,,,,
-,SILVERSTONE,SST-DA750-G,https://kakaku.com/item/K0001335777/,Gold,ATX,140,full,x2,CWT,CWT GPX,,,,,,,,,,,,,,
-,SILVERSTONE,SST-DA850-G,https://kakaku.com/item/K0001335778/,Gold,ATX,140,full,x2,CWT,CWT GPX,,,,,,,,,,,,,,
+,SILVERSTONE,SST-ST75F-GS V3,https://kakaku.com/item/K0001136339/,Gold,ATX,140,full,x2,Enhance,Enhance ATX2700,,,,,,,,,,,,,,
+,SILVERSTONE,SST-ST1500-GS,https://kakaku.com/item/K0000679244/,Gold,ATX,180,full,Unknown,Enhance,,,,,,,,,,,,,,,
+,SILVERSTONE,SST-DA550-G,https://kakaku.com/item/K0001335775/,Gold,ATX,140,full,x2,CWT,CWT GPX,double sided,,,,,,,,,,,,,
+,SILVERSTONE,SST-DA650-G,https://kakaku.com/item/K0001335776/,Gold,ATX,140,full,x2,CWT,CWT GPX,double sided,,,,,,,,,,,,,
+,SILVERSTONE,SST-DA750-G,https://kakaku.com/item/K0001335777/,Gold,ATX,140,full,x2,CWT,CWT GPX,double sided,,,,,,,,,,,,,
+,SILVERSTONE,SST-DA850-G,https://kakaku.com/item/K0001335778/,Gold,ATX,140,full,x2,CWT,CWT GPX,double sided,,,,,,,,,,,,,
 ,SILVERSTONE,SST-DA1650-G,https://kakaku.com/item/K0001293034/,Gold,ATX,180,full,x4,Sirtec,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-ST1000-PT,https://kakaku.com/item/K0000901046/,Platinum,ATX,180,full,x2,Enhance,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-ST1000-PTS,https://kakaku.com/item/K0001141717/,Platinum,ATX,140,full,x2,Enhance,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-ST1200-PT,https://kakaku.com/item/K0000901047/,Platinum,ATX,180,full,x2,Enhance,,,,,,,,,,,,,,,
+,SILVERSTONE,SST-ST1000-PTS,https://kakaku.com/item/K0001141717/,Platinum,ATX,140,full,x2,Enhance,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-ST1200-PTS,https://kakaku.com/item/K0001141718/,Platinum,ATX,140,full,x2,Enhance,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-ST55F-PT,https://kakaku.com/item/K0000812521/,Platinum,ATX,140,full,Unknown,Sirtec,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-ST65F-PT,https://kakaku.com/item/K0000812522/,Platinum,ATX,140,full,Unknown,Sirtec,,,,,,,,,,,,,,,
@@ -325,94 +329,94 @@ discontinued,SILVERSTONE,SST-ST60F-ESB,https://kakaku.com/item/K0000614644/,Bron
 ,SILVERSTONE,SST-ST1100-TI,https://kakaku.com/item/K0000987557/,Titanium,ATX,180,full,x2,Enhance,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-ST1300-TI,https://kakaku.com/item/K0000987558/,Titanium,ATX,180,full,x2,Enhance,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-ST1500-TI,https://kakaku.com/item/K0000987559/,Titanium,ATX,180,full,x2,Enhance,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-ST1500-GS,https://kakaku.com/item/K0000679244/,Gold,ATX,180,full,Unknown,Enhance,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-NJ450-SXL,https://kakaku.com/item/K0001072058/,Platinum,SFX-L,130,full,x1,Enhance,,,,,,,,,,,,,,,
-discontinued,SILVERSTONE,SST-NJ700,https://kakaku.com/item/K0001346497/,Titanium,ATX,170,full,x2,Seasonic,,,,,,,,,,,,,,,
+,SILVERSTONE,SST-NJ450-SXL,https://kakaku.com/item/K0001072058/,Platinum,SFX-L,130,full,x1,Enhance,ENP-7700,,,,,,,,,,,,,,
+discontinued,SILVERSTONE,SST-NJ700,https://kakaku.com/item/K0001346497/,Titanium,ATX,170,full,x2,Seasonic,Seasonic PRIME TX,double sided,full-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
 ,SILVERSTONE,SST-SX300-B,https://kakaku.com/item/K0001218762/,Bronze,SFX,100,fixed,x1,unknown,unknown,single sided,unknown,unknown,Passive Rectification + DC/DC,unknown,APAQ,n/a,unknown,n/a,-,-,-,-,-
 discontinued,SILVERSTONE,SST-SX450-B,https://kakaku.com/item/K0001218763/,Bronze,SFX,100,fixed,x1,unknown,unknown,single sided,unknown,unknown,Passive Rectification + DC/DC,unknown,APAQ,n/a,unknown,n/a,-,-,-,-,-
-discontinued,SILVERSTONE,SST-ST30SF V2,https://kakaku.com/item/K0000927889/,Bronze,SFX,100,fixed,x1,Sirtec,(SST-ST45SF V3),single sided,double forward,japanese 105c,Passive Rectification + DC/DC,chemi-con/TEAPO 105c,n/a,Teapo,Globefan S0921512M,n/a,-,https://smallformfactor.net/reviews/silverstone-st30sf-v2-0-st45sf-v3-0-review/,https://www.anandtech.com/show/11070/the-silverstone-st30sf-st45sf-sfx-psu-review/2,https://www.cybenetics.com/index.php?option=database&manfID=51&volts=1,-
 discontinued,SILVERSTONE,SST-ST45SF,https://kakaku.com/item/K0000102888/,Bronze,SFX,140,fixed,x1,FSP,FSP SFX GHS,single sided,double forward,unknown,Passive Rectification + Group Regulation,unknown 105c,n/a,n/a,unknown,n/a,-,https://www.silverstonetek.com/product.php?pid=253&area=jp,-,-,-
+discontinued,SILVERSTONE,SST-ST30SF V2,https://kakaku.com/item/K0000927889/,Bronze,SFX,100,fixed,x1,Sirtec,(SST-ST45SF V3),single sided,double forward,japanese 105c,Passive Rectification + DC/DC,chemi-con/TEAPO 105c,n/a,Teapo,Globefan S0921512M,n/a,-,https://smallformfactor.net/reviews/silverstone-st30sf-v2-0-st45sf-v3-0-review/,https://www.anandtech.com/show/11070/the-silverstone-st30sf-st45sf-sfx-psu-review/2,https://www.cybenetics.com/index.php?option=database&manfID=51&volts=1,-
 discontinued,SILVERSTONE,SST-ST45SF V3,https://kakaku.com/item/K0000935379/,Bronze,SFX,100,fixed,x1,Sirtec,(SST-ST45SF V3),single sided,double forward,japanese 105c,Passive Rectification + DC/DC,chemi-con/TEAPO 105c,n/a,Teapo,Globefan S0921512H,n/a,-,https://smallformfactor.net/reviews/silverstone-st30sf-v2-0-st45sf-v3-0-review/,https://www.anandtech.com/show/11070/the-silverstone-st30sf-st45sf-sfx-psu-review/2,https://www.cybenetics.com/index.php?option=database&manfID=51&volts=1,-
 ,SILVERSTONE,SST-ST45SF-G,https://kakaku.com/item/K0000401596/,Gold,SFX,100,full,x1,Enhance,Enhance ENP7100S,double sided,half-bridge LLC,japanese 105c,Synchronous Rectification + DC/DC,chemi-con/rubycon 105c,Teapo 105c,n/a,ADDA AD0812HB-D70 or YONGLIN TECH DFB801512H,n/a,-,https://www.hardocp.com/article/2013/03/14/silverstone_sfx_st45sfg_450w_power_supply_review/3,https://diit.cz/clanek/silverstone-sfx-series-450-w-sst-st45sf-g/sekundarni-strana-kvalita-provedeni,https://www.59hardware.net/articles/alimentations/alimentation-sfx-silverstone-sst-st45sf-g-2014060916067/all.html,-
-discontinued,SILVERSTONE,SST-SX500-G Rev,https://kakaku.com/item/K0001302162/,Gold,SFX,100,full,x1,Sirtec,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-SX500-LG,https://kakaku.com/item/K0000723872/,Gold,SFX,130,full,Unknown,Sirtec,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-SX500-LG-Rev,https://kakaku.com/item/K0001311027/,Gold,SFX,130,full,x1,Sirtec,,,,,,,,,,,,,,,
+,SILVERSTONE,SST-EX500-B,https://kakaku.com/item/K0001376478/,Bronze,ATX,100,fixed,x1,CWT,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-SX550,https://kakaku.com/item/K0000871889/,Gold,SFX,100,fixed,Unknown,FSP,,,,,,,,,,,,,,,
+,SILVERSTONE,SST-SX500-G Rev,https://kakaku.com/item/K0001302162/,Gold,SFX,100,full,x1,Sirtec,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-SX650-G,https://kakaku.com/item/K0000990111/,Gold,SFX,100,full,x1,Sirtec,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-SX650-G Rev,https://kakaku.com/item/K0001302163/,Gold,SFX,100,full,x1,Sirtec,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-SX700-G,https://kakaku.com/item/K0001124919/,Gold,SFX,100,full,x1,Sirtec,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-SX700-G Rev,https://kakaku.com/item/K0001311028/,Gold,SFX,100,full,x1,Sirtec,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-SX700-LPT,https://kakaku.com/item/K0000884237/,Platinum,SFX-L,130,full,Unknown,Sirtec,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-SX700-PT,https://kakaku.com/item/K0001205447/,Platinum,SFX,100,full,x2,Sirtec,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-SX750-PT,https://kakaku.com/item/K0001325500/,Platinum,SFX,100,full,Unknown,Enhance,,,,,,,,,,,,,,,
+,SILVERSTONE,SST-SX500-LG,https://kakaku.com/item/K0000723872/,Gold,SFX,130,full,Unknown,Sirtec,,,,,,,,,,,,,,,
+,SILVERSTONE,SST-SX500-LG-Rev,https://kakaku.com/item/K0001311027/,Gold,SFX,130,full,x1,Sirtec,,,,,,,,,,,,,,,
+,SILVERSTONE,SST-SX700-LPT,https://kakaku.com/item/K0000884237/,Platinum,SFX-L,130,full,Unknown,Sirtec,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-SX800-LTI,https://kakaku.com/item/K0000933076/,Titanium,SFX-L,130,full,Unknown,Enhance,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-SX800-LTI-Rev,https://kakaku.com/item/K0001311029/,Titanium,SFX-L,130,full,x1,Enhance,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-SX1000-LPT,https://kakaku.com/item/K0001325501/,Platinum,SFX-L,130,full,x2,Enhance,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-FX350-G,https://kakaku.com/item/K0001038061/,Gold,Flex ATX,150,fixed,x1,CWT,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-FX500-G,https://kakaku.com/item/K0001334077/,Gold,Flex ATX,150,fixed,x1,CWT,,,,,,,,,,,,,,,
 ,SILVERSTONE,SST-TX300,https://kakaku.com/item/K0000951442/,Bronze,TFX,175,fixed,x1,CWT,CWT GPF,single sided,double forward,unknown,Passive Rectification + Group Regulation,unknown 105c,n/a,n/a,unknown,n/a,-,"https://www.tomshardware.com/news/tx300-silverstone-first-tfx-psu,34470.html",https://ru.gecid.com/power/chieftec_gpf-250p/?s=all,-,-
-,SILVERSTONE,SST-TX500-G,https://kakaku.com/item/K0001334078/,Gold,TFX,175,fixed,x1,CWT,,,,,,,,,,,,,,,
-,SILVERSTONE,SST-TX700-G,https://kakaku.com/item/K0001334079/,Gold,TFX,175,fixed,x1,CWT,,,,,,,,,,,,,,,
+,SILVERSTONE,SST-TX500-G,https://kakaku.com/item/K0001334078/,Gold,TFX,175,fixed,x1,,,,,,,,,,,,,,,,
+,SILVERSTONE,SST-TX700-G,https://kakaku.com/item/K0001334079/,Gold,TFX,175,fixed,x1,,,,,,,,,,,,,,,,
 ,SUPER FLOWER,LEADEX III GOLD 550W,https://kakaku.com/item/K0001187329/,Gold,ATX,160,full,x1,SUPER FLOWER,LEADEX III GOLD,double sided,half-bridge LLC,chemi-con 105c,Synchronous Rectification + DC/DC,japanese 105c,FPCAP,Chemi-con/Teapo,Globefan S1282412L,yes,-,ftp://members.cybenetics.report/PDF_Reports/d/cybenetics_sm4.pdf,-,-,-
-,SUPER FLOWER,LEADEX III GOLD 650W,https://kakaku.com/item/K0001187330/,Gold,ATX,160,full,x4,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX III GOLD 750W,https://kakaku.com/item/K0001187331/,Gold,ATX,160,full,x4,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX III GOLD 850W,https://kakaku.com/item/K0001187332/,Gold,ATX,160,full,x4,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX III GOLD ARGB 550W,https://kakaku.com/item/K0001187325/,Gold,ATX,160,full,x4,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX III GOLD ARGB 650W,https://kakaku.com/item/K0001187326/,Gold,ATX,160,full,x4,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX III GOLD ARGB 750W,https://kakaku.com/item/K0001187327/,Gold,ATX,160,full,x4,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX III GOLD ARGB 850W,https://kakaku.com/item/K0001187328/,Gold,ATX,160,full,x4,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX III GOLD ARGB PRO 650W,https://kakaku.com/item/K0001271703/,Gold,ATX,160,full,x4,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX III GOLD ARGB PRO 750W,https://kakaku.com/item/K0001271704/,Gold,ATX,160,full,x4,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX III GOLD ARGB PRO 850W,https://kakaku.com/item/K0001271705/,Gold,ATX,160,full,x4,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX PLATINUM 1600W SF-1600F14HP,https://kakaku.com/item/K0001320484/,Platinum,ATX,220,full,Unknown,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX PLATINUM SE 1000W-BK,https://kakaku.com/item/K0001259599/,Platinum,ATX,180,full,x2,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX PLATINUM SE 1000W-WT,https://kakaku.com/item/K0001259600/,Platinum,ATX,180,full,x2,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX PLATINUM SE 1200W-BK,https://kakaku.com/item/K0001354670/,Platinum,ATX,180,full,x2,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX PLATINUM SE SF-850F14MP,https://kakaku.com/item/K0001374990/,Platinum,ATX,165,full,x2,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX Titanium 1000W SF-1000F14HT,https://kakaku.com/item/K0001331192/,Titanium,ATX,180,full,x2,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX Titanium 1600W SF-1600F14HT,https://kakaku.com/item/K0001347173/,Titanium,ATX,220,full,x2,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX V Gold 1000W,https://kakaku.com/item/K0001275394/,Gold,ATX,130,full,x2,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX V Gold 650W,https://kakaku.com/item/K0001275391/,Gold,ATX,130,full,x2,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX V Gold 750W,https://kakaku.com/item/K0001275392/,Gold,ATX,130,full,x2,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX V Gold 850W,https://kakaku.com/item/K0001275393/,Gold,ATX,130,full,x2,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX V Gold PRO 1000W SF-1000F14TG v2.0,https://kakaku.com/item/K0001351642/,Gold,ATX,130,full,x2,SUPER FLOWER,,,,,,,,,,,,,,,
-,SUPER FLOWER,LEADEX V Gold PRO 1000W SF-1000F14TG WT,https://kakaku.com/item/K0001374357/,Gold,ATX,130,full,x2,SUPER FLOWER,,,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX III GOLD 650W,https://kakaku.com/item/K0001187330/,Gold,ATX,160,full,x4,SUPER FLOWER,LEADEX III GOLD,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX III GOLD 750W,https://kakaku.com/item/K0001187331/,Gold,ATX,160,full,x4,SUPER FLOWER,LEADEX III GOLD,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX III GOLD 850W,https://kakaku.com/item/K0001187332/,Gold,ATX,160,full,x4,SUPER FLOWER,LEADEX III GOLD,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX III GOLD ARGB 550W,https://kakaku.com/item/K0001187325/,Gold,ATX,160,full,x4,SUPER FLOWER,LEADEX III GOLD,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX III GOLD ARGB 650W,https://kakaku.com/item/K0001187326/,Gold,ATX,160,full,x4,SUPER FLOWER,LEADEX III GOLD,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX III GOLD ARGB 750W,https://kakaku.com/item/K0001187327/,Gold,ATX,160,full,x4,SUPER FLOWER,LEADEX III GOLD,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX III GOLD ARGB 850W,https://kakaku.com/item/K0001187328/,Gold,ATX,160,full,x4,SUPER FLOWER,LEADEX III GOLD,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX III GOLD ARGB PRO 650W,https://kakaku.com/item/K0001271703/,Gold,ATX,160,full,x4,SUPER FLOWER,LEADEX III GOLD,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX III GOLD ARGB PRO 750W,https://kakaku.com/item/K0001271704/,Gold,ATX,160,full,x4,SUPER FLOWER,LEADEX III GOLD,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX III GOLD ARGB PRO 850W,https://kakaku.com/item/K0001271705/,Gold,ATX,160,full,x4,SUPER FLOWER,LEADEX III GOLD,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX PLATINUM 1600W SF-1600F14HP,https://kakaku.com/item/K0001320484/,Platinum,ATX,220,full,Unknown,SUPER FLOWER,LEADEX Platinum,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX PLATINUM SE 1000W-BK,https://kakaku.com/item/K0001259599/,Platinum,ATX,180,full,x2,SUPER FLOWER,LEADEX Platinum SE,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX PLATINUM SE 1000W-WT,https://kakaku.com/item/K0001259600/,Platinum,ATX,180,full,x2,SUPER FLOWER,LEADEX Platinum SE,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX PLATINUM SE 1200W-BK,https://kakaku.com/item/K0001354670/,Platinum,ATX,180,full,x2,SUPER FLOWER,LEADEX Platinum SE,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX PLATINUM SE SF-850F14MP,https://kakaku.com/item/K0001374990/,Platinum,ATX,165,full,x2,SUPER FLOWER,LEADEX Platinum SE,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX Titanium 1000W SF-1000F14HT,https://kakaku.com/item/K0001331192/,Titanium,ATX,180,full,x2,SUPER FLOWER,LEADEX Titanium,double sided,,,,,,,,,,https://lh3.googleusercontent.com/proxy/adC6ZZPJWdjraaZ5zyzAww4M5HbMHj8Hp4n7g9DCK4aKdDBZson7H_t74CDb0KADB_SkPDWkVaCOT-UH_BFK2NuIEBGKTX5myUnJ8VxuDazrhIg9vKGmCFoaGVrjdg,https://www.eteknix.com/superflower-leadex-platinum-750w-titanium-1000w-review/6/,,
+,SUPER FLOWER,LEADEX Titanium 1600W SF-1600F14HT,https://kakaku.com/item/K0001347173/,Titanium,ATX,220,full,x2,SUPER FLOWER,LEADEX Titanium,double sided,,,,,,,,,,https://www.kitguru.net/components/power-supplies/zardon/superflower-leadex-titanium-1600w-review/4/,,,
+,SUPER FLOWER,LEADEX V Gold 1000W,https://kakaku.com/item/K0001275394/,Gold,ATX,130,full,x2,SUPER FLOWER,LEADEX V GOLD,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX V Gold 650W,https://kakaku.com/item/K0001275391/,Gold,ATX,130,full,x2,SUPER FLOWER,LEADEX V GOLD,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX V Gold 750W,https://kakaku.com/item/K0001275392/,Gold,ATX,130,full,x2,SUPER FLOWER,LEADEX V GOLD,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX V Gold 850W,https://kakaku.com/item/K0001275393/,Gold,ATX,130,full,x2,SUPER FLOWER,LEADEX V GOLD,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX V Gold PRO 1000W SF-1000F14TG v2.0,https://kakaku.com/item/K0001351642/,Gold,ATX,130,full,x2,SUPER FLOWER,LEADEX V GOLD,double sided,,,,,,,,,,,,,
+,SUPER FLOWER,LEADEX V Gold PRO 1000W SF-1000F14TG WT,https://kakaku.com/item/K0001374357/,Gold,ATX,130,full,x2,SUPER FLOWER,LEADEX V GOLD,double sided,,,,,,,,,,,,,
 ,Thermaltake,SMART 350W STANDARD PS-SPD-0350NPCWJP-W,https://kakaku.com/item/K0000873512/,Standard,ATX,140,fixed,x1,Jiuzhou Yangguang Power Supply(九州阳光电源)?,unknown,single sided,double forward,Teapo 85c,Passive Rectification + Group Regulation,ChengX 105c,n/a,n/a,unknown,n/a,-,https://www.ask-corp.jp/products/thermaltake/power-supply/smart-standard.html,-,-,-
-discontinued,Thermaltake,SMART 500W STANDARD PS-SPD-0500NPCWJP-W,https://kakaku.com/item/K0000873513/,Standard,ATX,140,fixed,x1,Jiuzhou Yangguang Power Supply(九州阳光电源)?,unknown,single sided,double forward,Teapo 85c,Passive Rectification + Group Regulation,ChengX 105c,n/a,n/a,unknown,n/a,-,https://www.ask-corp.jp/products/thermaltake/power-supply/smart-standard.html,-,-,-
+,Thermaltake,SMART 500W STANDARD PS-SPD-0500NPCWJP-W,https://kakaku.com/item/K0000873513/,Standard,ATX,140,fixed,x1,Jiuzhou Yangguang Power Supply(九州阳光电源)?,unknown,single sided,double forward,Teapo 85c,Passive Rectification + Group Regulation,ChengX 105c,n/a,n/a,unknown,n/a,-,https://www.ask-corp.jp/products/thermaltake/power-supply/smart-standard.html,-,-,-
 ,Thermaltake,SMART 600W STANDARD PS-SPD-0600NPCWJP-W,https://kakaku.com/item/K0000873514/,Standard,ATX,140,fixed,x1,Jiuzhou Yangguang Power Supply(九州阳光电源)?,unknown,single sided,double forward,Teapo 85c,Passive Rectification + Group Regulation,ChengX 105c,n/a,n/a,unknown,n/a,-,https://www.ask-corp.jp/products/thermaltake/power-supply/smart-standard.html,-,-,-
-discontinued,Thermaltake,Smart BX1 RGB 550W BRONZE PS-SPR-0550NHFABJ-1,https://kakaku.com/item/K0001109731/,Bronze,ATX,140,fixed,x1,Jiuzhou Yangguang Power Supply(九州阳光电源),unknown,single sided,double forward,? Rubycon 105c,Passive Rectification + Group Regulation,ChengX 105c,jb capacitors(?),n/a,? XIN WANG XW12025MS(TT-1225),n/a,3C認証：2018010907125969,-,-,-,-
-discontinued,Thermaltake,Smart BX1 RGB 650W BRONZE PS-SPR-0650NHFABJ-1,https://kakaku.com/item/K0001109732/,Bronze,ATX,140,fixed,x1,Jiuzhou Yangguang Power Supply(九州阳光电源),unknown,single sided,double forward,Rubycon 105c,Passive Rectification + Group Regulation,ChengX 105c,jb capacitors(?),n/a,XIN WANG XW12025MS(TT-1225),n/a,3C認証：2018010907125969,https://www.nikktech.com/main/articles/pc-hardware/power-supplies/9816-thermaltake-smart-bx1-rgb-650w-power-supply-unit-review?start=4,https://www.hardwareluxx.ru/index.php/artikel/hardware/netzteile/47691-test-i-obzor-thermaltake-smart-bx1-rgb-650w-blok-pitaniya-s-rgb-podsvetkoj-po-vygodnoj-tsene.html?start=2,-,-
-discontinued,Thermaltake,Smart BX1 RGB 750W BRONZE PS-SPR-0750NHFABJ-1,https://kakaku.com/item/K0001109733/,Bronze,ATX,140,fixed,x1,Jiuzhou Yangguang Power Supply(九州阳光电源),unknown,single sided,double forward,Rubycon 105c,Passive Rectification + DC/DC?,ChengX 105c,jb capacitors(?),n/a,? XIN WANG XW12025MS(TT-1225),n/a,-,https://megaobzor.com/review-Thermaltake-Smart-BX1-RGB-750W.html,-,-,-
-discontinued,Thermaltake,TOUGHPOWER GX1 RGB GOLD 500W PS-TPD-0500NHFAGJ-1,https://kakaku.com/item/K0001115222/,Gold,ATX,140,fixed,x1,Jiuzhou Yangguang Power Supply(九州阳光电源),unknown,single sided,half-bridge LLC,Rubycon 105c,Synchronous Rectification + DC/DC,ChengX 105c,Teapo,n/a,XIN WANG XW12025MS(TT-1225),n/a,3C認証：2018010907125297,https://www.thermaltake.com/toughpower-gx1-rgb-600w-gold.html,-,-,-
+,Thermaltake,Smart BX1 RGB 550W BRONZE PS-SPR-0550NHFABJ-1,https://kakaku.com/item/K0001109731/,Bronze,ATX,140,fixed,x1,Jiuzhou Yangguang Power Supply(九州阳光电源),unknown,single sided,double forward,? Rubycon 105c,Passive Rectification + Group Regulation,ChengX 105c,jb capacitors(?),n/a,? XIN WANG XW12025MS(TT-1225),n/a,3C認証：2018010907125969,-,-,-,-
+,Thermaltake,Smart BX1 RGB 650W BRONZE PS-SPR-0650NHFABJ-1,https://kakaku.com/item/K0001109732/,Bronze,ATX,140,fixed,x1,Jiuzhou Yangguang Power Supply(九州阳光电源),unknown,single sided,double forward,Rubycon 105c,Passive Rectification + Group Regulation,ChengX 105c,jb capacitors(?),n/a,XIN WANG XW12025MS(TT-1225),n/a,3C認証：2018010907125969,https://www.nikktech.com/main/articles/pc-hardware/power-supplies/9816-thermaltake-smart-bx1-rgb-650w-power-supply-unit-review?start=4,https://www.hardwareluxx.ru/index.php/artikel/hardware/netzteile/47691-test-i-obzor-thermaltake-smart-bx1-rgb-650w-blok-pitaniya-s-rgb-podsvetkoj-po-vygodnoj-tsene.html?start=2,-,-
+,Thermaltake,Smart BX1 RGB 750W BRONZE PS-SPR-0750NHFABJ-1,https://kakaku.com/item/K0001109733/,Bronze,ATX,140,fixed,x1,Jiuzhou Yangguang Power Supply(九州阳光电源),unknown,single sided,double forward,Rubycon 105c,Passive Rectification + DC/DC?,ChengX 105c,jb capacitors(?),n/a,? XIN WANG XW12025MS(TT-1225),n/a,-,https://megaobzor.com/review-Thermaltake-Smart-BX1-RGB-750W.html,-,-,-
+,Thermaltake,TOUGHPOWER GX1 RGB GOLD 500W PS-TPD-0500NHFAGJ-1,https://kakaku.com/item/K0001115222/,Gold,ATX,140,fixed,x1,Jiuzhou Yangguang Power Supply(九州阳光电源),unknown,single sided,half-bridge LLC,Rubycon 105c,Synchronous Rectification + DC/DC,ChengX 105c,Teapo,n/a,XIN WANG XW12025MS(TT-1225),n/a,3C認証：2018010907125297,https://www.thermaltake.com/toughpower-gx1-rgb-600w-gold.html,-,-,-
 ,Thermaltake,TOUGHPOWER GX1 RGB GOLD 600W PS-TPD-0600NHFAGJ-1,https://kakaku.com/item/K0001115223/,Gold,ATX,140,fixed,x1,Jiuzhou Yangguang Power Supply(九州阳光电源),unknown,single sided,half-bridge LLC,Rubycon 105c,Synchronous Rectification + DC/DC,ChengX 105c,Teapo,n/a,XIN WANG XW12025MS(TT-1225),n/a,3C認証：2018010907125297,https://www.thermaltake.com/toughpower-gx1-rgb-600w-gold.html,https://occlub.ru/testodrom/37587-thermaltake-toughpower-gx1-rgb-600-vt-obzor-jeksperiment-udalsja/4,-,-
 ,Thermaltake,TOUGHPOWER GX1 RGB GOLD 700W PS-TPD-0700NHFAGJ-1,https://kakaku.com/item/K0001115224/,Gold,ATX,140,fixed,x1,Jiuzhou Yangguang Power Supply(九州阳光电源),unknown,single sided,half-bridge LLC,Rubycon 105c,Synchronous Rectification + DC/DC,ChengX 105c,Teapo,n/a,XIN WANG XW12025MS(TT-1225),n/a,3C認証：2018010907125297,https://www.thermaltake.com/toughpower-gx1-rgb-600w-gold.html,-,-,-
-,Thermaltake,TR2 450W V2 BRONZE PS-TR2-0450NPCBJP-B-V2,https://kakaku.com/item/K0000873519/,Bronze,ATX,140,fixed,x1,CWT,CWT GPK,single sided,double forward,japanese 105c,Passive Rectification + Group Regulation,CapXon 105c,n/a,n/a,unknown,n/a,-,https://kakaku.com/item/K0000873520/images/page=ka_5/,-,-,-
+discontinued,Thermaltake,TR2 450W V2 BRONZE PS-TR2-0450NPCBJP-B-V2,https://kakaku.com/item/K0000873519/,Bronze,ATX,140,fixed,x1,CWT,CWT GPK,single sided,double forward,japanese 105c,Passive Rectification + Group Regulation,CapXon 105c,n/a,n/a,unknown,n/a,-,https://kakaku.com/item/K0000873520/images/page=ka_5/,-,-,-
 ,Thermaltake,TR2 450W V2 GOLD PS-TR2-0450NPCGJP-G-V2,https://kakaku.com/item/K0000873515/,Gold,ATX,140,fixed,x1,Sirtec,Sirtec Astro Lite HPM,single sided,half-bridge LLC,Teapo 85c,Synchronous Rectification + DC/DC,TEAPO 105c,Teapo,n/a,unknown,n/a,-,https://www.ask-corp.jp/products/thermaltake/power-supply/tr2-v2-gold.html,-,-,-
-,Thermaltake,TR2 500W V2 BRONZE PS-TR2-0500NPCBJP-B-V2,https://kakaku.com/item/K0000873520/,Bronze,ATX,140,fixed,x1,CWT,CWT GPK,single sided,double forward,japanese 105c,Passive Rectification + Group Regulation,CapXon 105c,n/a,n/a,unknown,n/a,-,https://kakaku.com/item/K0000873520/images/page=ka_5/,-,-,-
-,Thermaltake,TR2 500W V2 GOLD PS-TR2-0500NPCGJP-G-V2,https://kakaku.com/item/K0000873516/,Gold,ATX,140,fixed,x1,Sirtec,Sirtec Astro Lite HPM,single sided,half-bridge LLC,Teapo 85c,Synchronous Rectification + DC/DC,TEAPO 105c,Teapo,n/a,unknown,n/a,-,https://www.ask-corp.jp/products/thermaltake/power-supply/tr2-v2-gold.html,-,-,-
-,Thermaltake,TR2 600W V2 BRONZE PS-TR2-0600NPCBJP-B-V2,https://kakaku.com/item/K0000873521/,Bronze,ATX,140,fixed,x1,CWT,CWT GPK,single sided,double forward,japanese 105c,Passive Rectification + Group Regulation,CapXon 105c,n/a,n/a,unknown,n/a,-,https://kakaku.com/item/K0000873520/images/page=ka_5/,-,-,-
-,Thermaltake,TR2 600W V2 GOLD PS-TR2-0600NPCGJP-G-V2,https://kakaku.com/item/K0000873517/,Gold,ATX,140,fixed,x1,Sirtec,Sirtec Astro Lite HPM,single sided,half-bridge LLC,Teapo 85c,Synchronous Rectification + DC/DC,TEAPO 105c,Teapo,n/a,unknown,n/a,-,https://www.ask-corp.jp/products/thermaltake/power-supply/tr2-v2-gold.html,-,-,-
-,Thermaltake,TOUGHPOWER DIGITAL iRGB PLUS 750W GOLD PS-TPI-0750F3FDGJ-1,https://kakaku.com/item/K0001209494/,Gold,ATX,160,full,x1,CWT,,,,,,,,,,,,,,,
-,Thermaltake,Toughpower Grand RGB 650W Gold PS-TPG-0650FPCGJP-R,https://kakaku.com/item/K0000956404/,Gold,ATX,160,full,x1,Sirtec,,,,,,,,,,,,,,,
-,Thermaltake,Toughpower Grand RGB 750W Gold PS-TPG-0750FPCGJP-R,https://kakaku.com/item/K0000956405/,Gold,ATX,160,full,x1,Sirtec,,,,,,,,,,,,,,,
-,Thermaltake,Toughpower Grand RGB 850W Gold PS-TPG-0850FPCGJP-R,https://kakaku.com/item/K0000956406/,Gold,ATX,160,full,x2,Sirtec,,,,,,,,,,,,,,,
-,Thermaltake,Toughpower Grand RGB 850W Platinum PS-TPG-0850F1FAPJ-1,https://kakaku.com/item/K0001070440/,Platinum,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,Thermaltake,Toughpower Grand RGB 1050W Platinum PS-TPG-1050F1FAPJ-1,https://kakaku.com/item/K0001046022/,Platinum,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,Thermaltake,Toughpower Grand RGB 1200W Platinum PS-TPG-1200F1FAPJ-1,https://kakaku.com/item/K0001070441/,Platinum,ATX,180,full,x2,CWT,,,,,,,,,,,,,,,
-,Thermaltake,TOUGHPOWER GF1 ARGB GOLD 650W PS-TPD-0650F3FAGJ-1,https://kakaku.com/item/K0001219283/,Gold,ATX,160,full,x1,CWT,,,,,,,,,,,,,,,
-,Thermaltake,TOUGHPOWER GF1 GOLD 1000W PS-TPD-1000FNFAGJ-1,https://kakaku.com/item/K0001377430/,Gold,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,Thermaltake,TOUGHPOWER GF1 GOLD 1200W PS-TPD-1200FNFAGJ-1,https://kakaku.com/item/K0001377431/,Gold,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,Thermaltake,Toughpower iRGB PLUS 850W PLATINUM PS-TPI-0850F2FDPJ-1,https://kakaku.com/item/K0001027841/,Platinum,ATX,160,full,x2,CWT,,,,,,,,,,,,,,,
-,Thermaltake,TOUGHPOWER PF1 Compact PLATINUM 750W PS-TPD-0750FNFAPJ-1,https://kakaku.com/item/K0001387159/,Platinum,ATX,140,full,x2,Jiuzhou Yangguang Power Supply(九州阳光电源),,,,,,,,,,,,,,,
-,Thermaltake,TOUGHPOWER PF1 Compact PLATINUM 850W PS-TPD-0850FNFAPJ-1,https://kakaku.com/item/K0001387160/,Platinum,ATX,140,full,x2,Jiuzhou Yangguang Power Supply(九州阳光电源),,,,,,,,,,,,,,,
-,Thermaltake,TOUGHPOWER TF1 TITANIUM 1550W PS-TPD-1550FNFATJ-1,https://kakaku.com/item/K0001398672/,Titanium,ATX,180,full,x2,CWT,,,,,,,,,,,,,,,
+discontinued,Thermaltake,TR2 500W V2 BRONZE PS-TR2-0500NPCBJP-B-V2,https://kakaku.com/item/K0000873520/,Bronze,ATX,140,fixed,x1,CWT,CWT GPK,single sided,double forward,japanese 105c,Passive Rectification + Group Regulation,CapXon 105c,n/a,n/a,unknown,n/a,-,https://kakaku.com/item/K0000873520/images/page=ka_5/,-,-,-
+discontinued,Thermaltake,TR2 500W V2 GOLD PS-TR2-0500NPCGJP-G-V2,https://kakaku.com/item/K0000873516/,Gold,ATX,140,fixed,x1,Sirtec,Sirtec Astro Lite HPM,single sided,half-bridge LLC,Teapo 85c,Synchronous Rectification + DC/DC,TEAPO 105c,Teapo,n/a,unknown,n/a,-,https://www.ask-corp.jp/products/thermaltake/power-supply/tr2-v2-gold.html,-,-,-
+discontinued,Thermaltake,TR2 600W V2 BRONZE PS-TR2-0600NPCBJP-B-V2,https://kakaku.com/item/K0000873521/,Bronze,ATX,140,fixed,x1,CWT,CWT GPK,single sided,double forward,japanese 105c,Passive Rectification + Group Regulation,CapXon 105c,n/a,n/a,unknown,n/a,-,https://kakaku.com/item/K0000873520/images/page=ka_5/,-,-,-
+discontinued,Thermaltake,TR2 600W V2 GOLD PS-TR2-0600NPCGJP-G-V2,https://kakaku.com/item/K0000873517/,Gold,ATX,140,fixed,x1,Sirtec,Sirtec Astro Lite HPM,single sided,half-bridge LLC,Teapo 85c,Synchronous Rectification + DC/DC,TEAPO 105c,Teapo,n/a,unknown,n/a,-,https://www.ask-corp.jp/products/thermaltake/power-supply/tr2-v2-gold.html,-,-,-
+,Thermaltake,TOUGHPOWER DIGITAL iRGB PLUS 750W GOLD PS-TPI-0750F3FDGJ-1,https://kakaku.com/item/K0001209494/,Gold,ATX,160,full,x1,CWT,,double sided,,,,,,,,,,,,,
+,Thermaltake,Toughpower Grand RGB 650W Gold PS-TPG-0650FPCGJP-R,https://kakaku.com/item/K0000956404/,Gold,ATX,160,full,x1,Sirtec,,double sided,,,,,,,,,,,,,
+,Thermaltake,Toughpower Grand RGB 750W Gold PS-TPG-0750FPCGJP-R,https://kakaku.com/item/K0000956405/,Gold,ATX,160,full,x1,Sirtec,,double sided,,,,,,,,,,,,,
+,Thermaltake,Toughpower Grand RGB 850W Gold PS-TPG-0850FPCGJP-R,https://kakaku.com/item/K0000956406/,Gold,ATX,160,full,x2,Sirtec,,double sided,,,,,,,,,,,,,
+,Thermaltake,Toughpower Grand RGB 850W Platinum PS-TPG-0850F1FAPJ-1,https://kakaku.com/item/K0001070440/,Platinum,ATX,160,full,x2,CWT,,double sided,,,,,,,,,,,,,
+,Thermaltake,Toughpower Grand RGB 1050W Platinum PS-TPG-1050F1FAPJ-1,https://kakaku.com/item/K0001046022/,Platinum,ATX,160,full,x2,CWT,,double sided,,,,,,,,,,,,,
+,Thermaltake,Toughpower Grand RGB 1200W Platinum PS-TPG-1200F1FAPJ-1,https://kakaku.com/item/K0001070441/,Platinum,ATX,180,full,x2,CWT,,double sided,,,,,,,,,,,,,
+,Thermaltake,TOUGHPOWER GF1 ARGB GOLD 650W PS-TPD-0650F3FAGJ-1,https://kakaku.com/item/K0001219283/,Gold,ATX,160,full,x1,CWT,CWT GPR,double sided,,,,,,,,,,,,,
+,Thermaltake,TOUGHPOWER GF1 GOLD 1000W PS-TPD-1000FNFAGJ-1,https://kakaku.com/item/K0001377430/,Gold,ATX,160,full,x2,CWT,CWT GPR,double sided,,,,,,,,,,,,,
+,Thermaltake,TOUGHPOWER GF1 GOLD 1200W PS-TPD-1200FNFAGJ-1,https://kakaku.com/item/K0001377431/,Gold,ATX,160,full,x2,CWT,CWT GPR,double sided,,,,,,,,,,,,,
+,Thermaltake,Toughpower iRGB PLUS 850W PLATINUM PS-TPI-0850F2FDPJ-1,https://kakaku.com/item/K0001027841/,Platinum,ATX,160,full,x2,CWT,(Toughpower PF1),double sided,,,,,,,,,,,,,
+,Thermaltake,TOUGHPOWER PF1 Compact PLATINUM 750W PS-TPD-0750FNFAPJ-1,https://kakaku.com/item/K0001387159/,Platinum,ATX,140,full,x2,Jiuzhou Yangguang Power Supply(九州阳光电源),(Toughpower PF1),double sided,half-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,,,,
+,Thermaltake,TOUGHPOWER PF1 Compact PLATINUM 850W PS-TPD-0850FNFAPJ-1,https://kakaku.com/item/K0001387160/,Platinum,ATX,140,full,x2,Jiuzhou Yangguang Power Supply(九州阳光电源),(Toughpower PF1),double sided,half-bridge LLC,,Synchronous Rectification + DC/DC,,,,,,,https://www.tomshardware.com/reviews/thermaltake-toughpower-pf1-850w-power-supply-review,,,
+,Thermaltake,TOUGHPOWER TF1 TITANIUM 1550W PS-TPD-1550FNFATJ-1,https://kakaku.com/item/K0001398672/,Titanium,ATX,180,full,x2,CWT,,double sided,,,,,,,,,,,,,
 ,ZAWARD,FLEX 250 ENP7025B-126YGD-N,https://kakaku.com/item/K0000419776/,Bronze,Flex ATX,81.5,fixed,-,Enhance,Enhance ENP7100,unknown,unknown,unknown,unknown,unknown,unknown,n/a,unknown,n/a,-,-,-,-,-
-,ZALMAN,WATTTERA 1000W ZM1000-EBTII,https://kakaku.com/item/K0001332866/,Gold,ATX,160,full,x2,Enhance,,,,,,,,,,,,,,,
-,ZALMAN,WATTTERA 1200W ZM1200-EBTII,https://kakaku.com/item/K0001332867/,Gold,ATX,160,full,x2,Enhance,,,,,,,,,,,,,,,
-,ZALMAN,WATTTERA 700W ZM700-EBTII,https://kakaku.com/item/K0001332864/,Gold,ATX,160,full,x2,Enhance,,,,,,,,,,,,,,,
-,ZALMAN,WATTTERA 800W ZM800-EBTII,https://kakaku.com/item/K0001332865/,Gold,ATX,160,full,x2,Enhance,,,,,,,,,,,,,,,
-,オウルテック,OWL-GPM550S,https://kakaku.com/item/K0001354721/,Bronze,ATX,140,fixed,x1,CWT,,,,,,,,,,,,,,,
-,オウルテック,OWL-GPM650S,https://kakaku.com/item/K0001354722/,Bronze,ATX,140,fixed,x1,CWT,,,,,,,,,,,,,,,
+,ZALMAN,WATTTERA 700W ZM700-EBTII,https://kakaku.com/item/K0001332864/,Gold,ATX,160,full,x2,Enhance,Enhance ATX-3200,,,,,,,,,,,https://quasarzone.com/bbs/qc_qsz/views/416102,,,
+,ZALMAN,WATTTERA 800W ZM800-EBTII,https://kakaku.com/item/K0001332865/,Gold,ATX,160,full,x2,Enhance,Enhance ATX-3200,,,,,,,,,,,,,,
+,ZALMAN,WATTTERA 1000W ZM1000-EBTII,https://kakaku.com/item/K0001332866/,Gold,ATX,160,full,x2,Enhance,Enhance ATX-3200,,,,,,,,,,,https://www.gdm.or.jp/review/2021/0319/383823/3,,,
+,ZALMAN,WATTTERA 1200W ZM1200-EBTII,https://kakaku.com/item/K0001332867/,Gold,ATX,160,full,x2,Enhance,Enhance ATX-3200,,,,,,,,,,,,,,
+,オウルテック,OWL-GPM550S,https://kakaku.com/item/K0001354721/,Bronze,ATX,140,fixed,x1,CWT,CWT GPM,single sided,,,,,,,,,,,,,
+,オウルテック,OWL-GPM650S,https://kakaku.com/item/K0001354722/,Bronze,ATX,140,fixed,x1,CWT,CWT GPM,single sided,,,,,,,,,,,,,
 ,玄人志向,KRPW-AC120W,https://kakaku.com/item/K0000488262/,Not Certified,AC Brick,0,fixed,-,Enhance,ENA-1112-19 + END0512,n/a,n/a,n/a,DC/DC,chemi-con/rubycon 105c,n/a,n/a,n/a,n/a,-,http://rarak.jp/5510,-,-,-
 ,玄人志向,KRPW-AK650W/88+,https://kakaku.com/item/K0000903028/,Silver,ATX,140,fixed,x1,Enhance,Enhance ATX1500B,double sided,half-bridge LLC?,japanese 105c,Synchronous Rectification + DC/DC,? TAICON/Teapo 105c,? unicon,n/a,unknown,n/a,-,https://egg.5ch.net/test/read.cgi/jisaku/1408754411/477,-,-,-
 ,玄人志向,KRPW-AK750W/88+,https://kakaku.com/item/K0000903027/,Silver,ATX,140,fixed,x1,Enhance,Enhance ATX1500B,double sided,half-bridge LLC?,japanese 105c,Synchronous Rectification + DC/DC,TAICON/Teapo 105c,unicon,n/a,unknown,n/a,-,https://potato.5ch.net/test/read.cgi/jisaku/1308823441/989-990,-,-,-
@@ -427,7 +431,7 @@ discontinued,Thermaltake,TOUGHPOWER GX1 RGB GOLD 500W PS-TPD-0500NHFAGJ-1,https:
 ,玄人志向,KRPW-GK750W/90+,https://kakaku.com/item/K0001012949/,Gold,ATX,140,full,x2,Enhance,Enhance ATX2700,double sided,half-bridge LLC,japanese 105c,Synchronous Rectification + DC/DC,Teapo/Unicon 105c,unknown,unknown,unknown,n/a,-,https://blog.tsukumo.co.jp/ex/2017/12/_krpw-gk750w90.html,-,-,-
 ,玄人志向,KRPW-GA750W/90+,https://kakaku.com/item/K0001362987/,Gold,ATX,150,full,x2,HEC?,,,,,,,,,,,,,,,
 ,玄人志向,KRPW-GA850W/90+,https://kakaku.com/item/K0001362986/,Gold,ATX,150,full,x2,HEC?,,,,,,,,,,,,,,,
-,玄人志向,KRPW-GR1000W/90+,https://kakaku.com/item/K0001323052/,Gold,ATX,160,full,x2,Enhance,,,,,,,,,,,,,,,
+,玄人志向,KRPW-GR1000W/90+,https://kakaku.com/item/K0001323052/,Gold,ATX,160,full,x2,Enhance,Enhance ATX-3200,,,,,,,,,,,,,,
 ,玄人志向,KRPW-L5-400W/80+,https://kakaku.com/item/K0000793727/,Standard,ATX,140,fixed,x1,Enhance,Enhance ATX1200B,single sided,double forward,Teapo 105c,Passive Rectification + Group Regulation,Teapo/Su'scon/Taicon 105c,n/a,n/a,Yateloon D12SH-12,n/a,-,https://sitifukuzin.com/blog/?p=50799,-,-,-
 ,玄人志向,KRPW-L5-500W/80+,https://kakaku.com/item/K0000793726/,Standard,ATX,140,fixed,x1,Enhance,Enhance ATX1200B,single sided,double forward,Teapo 105c,Passive Rectification + Group Regulation,Teapo/Su'scon/Taicon 105c,n/a,n/a,? Yateloon D12SH-12,n/a,-,https://akiba-pc.watch.impress.co.jp/img/ah/docs/726/008/html/mdosv1511_9a04.jpg.html,-,-,-
 ,玄人志向,KRPW-L5-600W/80+,https://kakaku.com/item/K0000793725/,Standard,ATX,140,fixed,x1,Enhance,Enhance ATX1200B,single sided,double forward,? Teapo 105c,Passive Rectification + Group Regulation,? Teapo/Su'scon/Taicon 105c,n/a,n/a,? Yateloon D12SH-12,n/a,-,-,-,-,-
