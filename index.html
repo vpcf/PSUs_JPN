@@ -1,0 +1,110 @@
+<html>
+  <head>
+    <title>PSUs JPN</title>
+    <meta name="description" content="List of PSUs released in Japan." />
+    <meta property="og:title" content="PSUs JPN" />
+    <meta property="og:description" content="List of PSUs released in Japan." />
+    <meta property="og:url" content="https://vpcf.github.io/PSUs_JPN/" />
+    <meta name="twitter:card" content="List of PSUs released in Japan." />
+    <link
+      href="https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css"
+      rel="stylesheet"
+    />
+    <script
+      type="text/javascript"
+      src="https://unpkg.com/tabulator-tables/dist/js/tabulator.min.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="https://unpkg.com/papaparse@latest/papaparse.min.js"
+    ></script>
+  </head>
+  <body>
+    <div id="psu-table"></div>
+  </body>
+  <script>
+    let url = "https://vpcf.github.io/PSUs_JPN/PSUs_jpn.csv";
+    if (
+      location.hostname === "localhost" ||
+      location.hostname === "127.0.0.1"
+    ) {
+      url = "./PSUs_jpn.csv";
+    }
+    Papa.parse(url, {
+      header: true,
+      download: true,
+      skipEmptyLines: true,
+      complete: function (results) {
+        console.log(results);
+        const table = new Tabulator("#psu-table", {
+          selectable: false,
+          data: results.data,
+          pagination: "local",
+          paginationSize: 20,
+          paginationSizeSelector: [10, 20, 50, 100],
+          columns: [
+            { title: "status", field: "status" },
+            { title: "brand", field: "brand" },
+            { title: "name", field: "name" },
+            {
+              title: "link",
+              field: "link",
+              formatter: "link",
+              formatterParams: { target: "_blank" },
+            },
+            { title: "80PLUS", field: "80PLUS" },
+            { title: "form factor", field: "form factor" },
+            { title: "depth", field: "depth" },
+            { title: "modular", field: "modular" },
+            { title: "EPS8pin", field: "EPS8pin" },
+            { title: "OEM", field: "OEM" },
+            { title: "platform", field: "platform" },
+            { title: "pcb", field: "pcb" },
+            { title: "primary topology", field: "primary topology" },
+            { title: "primary cap(s) brand", field: "primary cap(s) brand" },
+            {
+              title: "secondary side topology",
+              field: "secondary side topology",
+            },
+            {
+              title: "secondary electrolytic caps brand",
+              field: "secondary electrolytic caps brand",
+            },
+            {
+              title: "secondary solid caps brand",
+              field: "secondary solid caps brand",
+            },
+            { title: "modular board caps", field: "modular board caps" },
+            { title: "fan", field: "fan" },
+            { title: "fanless mode", field: "fanless mode" },
+            { title: "note", field: "note" },
+            {
+              title: "review/image_1",
+              field: "review/image_1",
+              formatter: "link",
+              formatterParams: { target: "_blank" },
+            },
+            {
+              title: "review/image_2",
+              field: "review/image_2",
+              formatter: "link",
+              formatterParams: { target: "_blank" },
+            },
+            {
+              title: "review/image_3",
+              field: "review/image_3",
+              formatter: "link",
+              formatterParams: { target: "_blank" },
+            },
+            {
+              title: "review/image_4",
+              field: "review/image_4",
+              formatter: "link",
+              formatterParams: { target: "_blank" },
+            },
+          ],
+        });
+      },
+    });
+  </script>
+</html>
