@@ -62,8 +62,8 @@
 ||Cooler Master|[[MWE Gold V2 550 MPE-5501-ACAAG-JP:https://kakaku.com/item/K0001335612/]]|Gold|ATX|140|fixed|x1|Huizhou Xin&#x48;uiYuan((金金金)暉源)|Model:1908|両面|ﾌﾙﾌﾞﾘｯｼﾞ LLC|||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Cooler Master|[[MWE Gold V2 750 Full Modular MPE-7501-AFAAG-JP:https://kakaku.com/item/K0001335615/]]|Gold|ATX|160|full|x1|Huizhou Xin&#x48;uiYuan((金金金)暉源)|Model:1908|両面|ﾌﾙﾌﾞﾘｯｼﾞ LLC|||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Cooler Master|[[MWE Gold V2 750 MPE-7501-ACAAG-JP:https://kakaku.com/item/K0001335613/]]|Gold|ATX|140|fixed|x1|Huizhou Xin&#x48;uiYuan((金金金)暉源)|Model:1908|両面|ﾌﾙﾌﾞﾘｯｼﾞ LLC|||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
-||Cooler Master|[[MWE Gold 1050 V2:https://www.coolermaster.com/catalog/power-supplies/mwe-series/mwe-gold-1050-v2-full-modular/]]|Gold|ATX|180|full|x2|Huizhou Xin&#x48;uiYuan((金金金)暉源)||||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
-||Cooler Master|[[MWE Gold 1250 V2:https://www.coolermaster.com/catalog/power-supplies/mwe-series/mwe-gold-1250-v2-full-modular/]]|Gold|ATX|180|full|x2|Huizhou Xin&#x48;uiYuan((金金金)暉源)||||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
+||Cooler Master|[[MWE Gold 1050 V2 MPE-A501-AFCAG-JP:https://www.coolermaster.com/catalog/power-supplies/mwe-series/mwe-gold-1050-v2-full-modular/]]|Gold|ATX|180|full|x2|Huizhou Xin&#x48;uiYuan((金金金)暉源)|Model:2012|両面||||||||||[[link:https://cdn.coolermaster.com/media/assets/1084/mwe-gold-1050-v2-full-modular-gallery-11-zoom.png]]|[[link:]]|[[link:]]|[[link:]]|
+||Cooler Master|[[MWE Gold 1250 V2 MPE-C501-AFCAG-JP:https://www.coolermaster.com/catalog/power-supplies/mwe-series/mwe-gold-1250-v2-full-modular/]]|Gold|ATX|180|full|x2|Huizhou Xin&#x48;uiYuan((金金金)暉源)|Model:2012|両面||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Cooler Master|[[V SFX Gold 550W MPY-5501-SFHAGV-JP:https://kakaku.com/item/K0001314159/]]|Gold|SFX|100|full|x1|Gospower|不明|両面||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Cooler Master|[[V SFX Gold 650W MPY-6501-SFHAGV-JP:https://kakaku.com/item/K0001314160/]]|Gold|SFX|100|full|x1|Gospower|不明|両面||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Cooler Master|[[V SFX Gold 750W MPY-7501-SFHAGV-JP:https://kakaku.com/item/K0001314161/]]|Gold|SFX|100|full|x1|Gospower|不明|両面||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
@@ -72,8 +72,8 @@
 ||Cooler Master|[[V1000 RSA00-AFBAG1-JP:https://kakaku.com/item/K0000595818/]]|Gold|ATX|170|full|x2|Seasonic|Seasonic KM3|両面|ﾌﾙﾌﾞﾘｯｼﾞ LLC||同期整流 + DC/DC|||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Cooler Master|[[V1200 Platinum RSC00-AFBAG1-JP:https://kakaku.com/item/K0000683652/]]|Platinum|ATX|190|full|x2|Seasonic|Seasonic XP3|両面|ﾌﾙﾌﾞﾘｯｼﾞ LLC||同期整流 + DC/DC|||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Cooler Master|[[V1300 PLATINUM MPZ-D001-AFBAPV-JP:https://kakaku.com/item/K0001217999/]]|Platinum|ATX|201.2|full|x1|Delta|(Antec HCP Platinum)|両面||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
-||Cooler Master|[[V650 Gold MPY-6501-AFAAGV-JP:https://kakaku.com/item/K0001162470/]]|Gold|ATX|160|full|x1|Chicony|不明|||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
-||Cooler Master|[[V750 Gold MPY-7501-AFAAGV-JP:https://kakaku.com/item/K0001162471/]]|Gold|ATX|160|full|x1|Chicony|不明|||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
+||Cooler Master|[[V650 Gold MPY-6501-AFAAGV-JP:https://kakaku.com/item/K0001162470/]]|Gold|ATX|160|full|x1|Chicony|(V Gold 550/650W)|片面|ﾊｰﾌﾌﾞﾘｯｼﾞ LLC||同期整流 + DC/DC||||Apistek SAC4H2H|||[[link:https://www.tomshardware.com/reviews/cooler-master-v650-gold-power-supply-review]]|[[link:]]|[[link:]]|[[link:]]|
+||Cooler Master|[[V750 Gold MPY-7501-AFAAGV-JP:https://kakaku.com/item/K0001162471/]]|Gold|ATX|160|full|x1|Chicony|(V Gold 750/850W)|片面|ﾊｰﾌﾌﾞﾘｯｼﾞ LLC||同期整流 + DC/DC||||Apistek SAC4H2H|||[[link:https://www.tomshardware.com/reviews/cooler-master-v750-gold-power-supply]]|[[link:]]|[[link:]]|[[link:]]|
 ||Cooler Master|[[V650 GOLD V2 MPY-650V-AFBAG-JP:https://kakaku.com/item/K0001336194/]]|Gold|ATX|160|full|x1|Gospower|不明|||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Cooler Master|[[V750 GOLD V2 MPY-750V-AFBAG-JP:https://kakaku.com/item/K0001336195/]]|Gold|ATX|160|full|x1|Gospower|不明|||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Cooler Master|[[V750 GOLD V2 White Edition MPY-750V-AGBAG-JP:https://kakaku.com/item/K0001340397/]]|Gold|ATX|160|full|x1|Gospower|不明|||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
@@ -96,12 +96,12 @@
 ||Corsair|[[CX550M 2021 CP-9020220-JP:https://kakaku.com/item/K0001394500/]]|Bronze|ATX|140|semi|x1|CWT||||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Corsair|[[CX650M 2021 CP-9020221-JP:https://kakaku.com/item/K0001394501/]]|Bronze|ATX|140|semi|x2|CWT||||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Corsair|[[CX750M 2021 CP-9020222-JP:https://kakaku.com/item/K0001394502/]]|Bronze|ATX|140|semi|x2|CWT||||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
-||Corsair|[[CX550F RGB CP-9020216-JP:https://kakaku.com/item/K0001312776/]]|Bronze|ATX|140|full|x1|HEC|Corsair custom|||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
-||Corsair|[[CX550F RGB CP-9020225-JP [White]:https://kakaku.com/item/K0001312777/]]|Bronze|ATX|140|full|x1|HEC|Corsair custom|||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
-||Corsair|[[CX650F RGB CP-9020217-JP:https://kakaku.com/item/K0001312772/]]|Bronze|ATX|140|full|x2|HEC|Corsair custom|||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
-||Corsair|[[CX650F RGB CP-9020226-JP [White]:https://kakaku.com/item/K0001312773/]]|Bronze|ATX|140|full|x2|HEC|Corsair custom|||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
-||Corsair|[[CX750F RGB CP-9020218-JP:https://kakaku.com/item/K0001312774/]]|Bronze|ATX|140|full|x2|HEC|Corsair custom|||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
-||Corsair|[[CX750F RGB CP-9020227-JP [White]:https://kakaku.com/item/K0001312775/]]|Bronze|ATX|140|full|x2|HEC|Corsair custom|||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
+||Corsair|[[CX550F RGB CP-9020216-JP:https://kakaku.com/item/K0001312776/]]|Silver|ATX|140|full|x1|HEC|Corsair custom||||||||||80PLUS Bronzeとして販売|[[link:]]|[[link:]]|[[link:]]|[[link:]]|
+||Corsair|[[CX550F RGB CP-9020225-JP [White]:https://kakaku.com/item/K0001312777/]]|Silver|ATX|140|full|x1|HEC|Corsair custom||||||||||80PLUS Bronzeとして販売|[[link:]]|[[link:]]|[[link:]]|[[link:]]|
+||Corsair|[[CX650F RGB CP-9020217-JP:https://kakaku.com/item/K0001312772/]]|Silver|ATX|140|full|x2|HEC|Corsair custom||||||||||80PLUS Bronzeとして販売|[[link:]]|[[link:]]|[[link:]]|[[link:]]|
+||Corsair|[[CX650F RGB CP-9020226-JP [White]:https://kakaku.com/item/K0001312773/]]|Silver|ATX|140|full|x2|HEC|Corsair custom||||||||||80PLUS Bronzeとして販売|[[link:]]|[[link:]]|[[link:]]|[[link:]]|
+||Corsair|[[CX750F RGB CP-9020218-JP:https://kakaku.com/item/K0001312774/]]|Silver|ATX|140|full|x2|HEC|Corsair custom||||||||||80PLUS Bronzeとして販売|[[link:]]|[[link:]]|[[link:]]|[[link:]]|
+||Corsair|[[CX750F RGB CP-9020227-JP [White]:https://kakaku.com/item/K0001312775/]]|Silver|ATX|140|full|x2|HEC|Corsair custom||||||||||80PLUS Bronzeとして販売|[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Corsair|[[RM550x CP-9020177-JP:https://kakaku.com/item/K0001065309/]]|Gold|ATX|160|full|不明|CWT|Corsair custom|両面||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Corsair|[[RM650x CP-9020178-JP:https://kakaku.com/item/K0001064179/]]|Gold|ATX|160|full|不明|CWT|Corsair custom|両面||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Corsair|[[RM750x CP-9020179-JP:https://kakaku.com/item/K0001046021/]]|Gold|ATX|160|full|x2|CWT|Corsair custom|両面||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
@@ -134,7 +134,7 @@
 ||Corsair|[[HX750i CP-9020072-JP:https://kakaku.com/item/K0000699512/]]|Platinum|ATX|180|full|x2|CWT|Corsair custom|両面||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Corsair|[[HX850i CP-9020073-JP:https://kakaku.com/item/K0000699513/]]|Platinum|ATX|180|full|x2|CWT|Corsair custom|両面||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Corsair|[[HX1200i CP-9020070-JP:https://kakaku.com/item/K0000781203/]]|Platinum|ATX|200|full|x2|CWT|Corsair custom|両面||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
-||Corsair|[[AX1600i CP-9020087-JP:https://kakaku.com/item/K0001048628/]]|Titanium|ATX|200|full|x2|CWT|Flex|両面||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
+||Corsair|[[AX1600i CP-9020087-JP:https://kakaku.com/item/K0001048628/]]|Titanium|ATX|200|full|x2|flex||両面||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||COUGAR|[[GX-F AURUM 550 CGR GD-550:https://kakaku.com/item/K0001250120/]]|Gold|ATX|150|full|x2|HEC|HEC TPK|||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||COUGAR|[[GX-F AURUM 650 CGR GD-650:https://kakaku.com/item/K0001250121/]]|Gold|ATX|150|full|x2|HEC|HEC TPK|||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||COUGAR|[[GX-F AURUM 750 CGR GD-750:https://kakaku.com/item/K0001250122/]]|Gold|ATX|150|full|x2|HEC|HEC TPK|||||||||||[[link:https://quasarzone.com/bbs/qc_qsz/views/876306]]|[[link:]]|[[link:]]|[[link:]]|
@@ -400,7 +400,7 @@
 |終売|Thermaltake|[[TR2 600W V2 GOLD PS-TR2-0600NPCGJP-G-V2:https://kakaku.com/item/K0000873517/]]|Gold|ATX|140|fixed|x1|Sirtec|Sirtec Astro Lite HPM|片面|ﾊｰﾌﾌﾞﾘｯｼﾞ LLC|Teapo 85c|同期整流 + DC/DC|TEAPO 105c|Teapo|n/a|不明|n/a|-|[[link:https://www.ask-corp.jp/products/thermaltake/power-supply/tr2-v2-gold.html]]||||
 ||Thermaltake|[[Toughpower Grand RGB 650W Gold PS-TPG-0650FPCGJP-R:https://kakaku.com/item/K0000956404/]]|Gold|ATX|160|full|x1|Sirtec||両面||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Thermaltake|[[Toughpower Grand RGB 750W Gold PS-TPG-0750FPCGJP-R:https://kakaku.com/item/K0000956405/]]|Gold|ATX|160|full|x1|Sirtec||両面||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
-||Thermaltake|[[Toughpower Grand RGB 850W Gold PS-TPG-0850FPCGJP-R:https://kakaku.com/item/K0000956406/]]|Gold|ATX|160|full|x2|Sirtec||両面||||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
+||Thermaltake|[[Toughpower Grand RGB 850W Gold PS-TPG-0850FPCGJP-R:https://kakaku.com/item/K0000956406/]]|Gold|ATX|160|full|x2|Sirtec||両面||||||||||[[link:https://www.tomshardware.com/reviews/thermaltake-toughpower-grand-rgb-850w-platinum-power-supply]]|[[link:]]|[[link:]]|[[link:]]|
 ||Thermaltake|[[Toughpower Grand RGB 850W Platinum PS-TPG-0850F1FAPJ-1:https://kakaku.com/item/K0001070440/]]|Platinum|ATX|160|full|x2|CWT|CWT CST(P)|両面|semi-digital, ﾌﾙﾌﾞﾘｯｼﾞ LLC|||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Thermaltake|[[Toughpower Grand RGB 1050W Platinum PS-TPG-1050F1FAPJ-1:https://kakaku.com/item/K0001046022/]]|Platinum|ATX|160|full|x2|CWT|CWT CST(P)|両面|semi-digital, ﾌﾙﾌﾞﾘｯｼﾞ LLC|||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||Thermaltake|[[Toughpower Grand RGB 1200W Platinum PS-TPG-1200F1FAPJ-1:https://kakaku.com/item/K0001070441/]]|Platinum|ATX|180|full|x2|CWT|CWT CST(P)|両面|semi-digital, ﾌﾙﾌﾞﾘｯｼﾞ LLC|||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
@@ -426,8 +426,8 @@
 ||オウルテック|[[EXTREME POWER OWL-GPX850S:https://www.owltech.co.jp/product/gpx-s]]|Gold|ATX|140|full|x2|CWT|CWT GPX|両面|ﾊｰﾌﾌﾞﾘｯｼﾞ LLC|||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||オウルテック|[[EXTREME POWER OWL-GPR1000:https://www.owltech.co.jp/product/gpr1000]]|Gold|ATX|160|full|x2|CWT|CWT GPR|両面|ﾊｰﾌﾌﾞﾘｯｼﾞ LLC|||||||||[[link:]]|[[link:]]|[[link:]]|[[link:]]|
 ||玄人志向|[[KRPW-AC120W:https://kakaku.com/item/K0000488262/]]|未取得|AC Brick|0|fixed|-|Enhance|Enhance ENA-1112-19 + END0512|n/a|n/a|n/a|DC/DC|chemi-con / rubycon 105c|n/a|n/a|n/a|n/a|-|[[link:http://rarak.jp/5510]]||||
-||玄人志向|[[KRPW-AK650W/88+:https://kakaku.com/item/K0000903028/]]|Silver|ATX|140|fixed|x1|Enhance|Enhance ATX1500B|両面|ﾊｰﾌﾌﾞﾘｯｼﾞ LLC?|日本メーカー 105c|同期整流 + DC/DC|? TAICON / Teapo 105c|? unicon|n/a|不明|n/a|-|[[link:https://egg.5ch.net/test/read.cgi/jisaku/1408754411/477]]||||
-||玄人志向|[[KRPW-AK750W/88+:https://kakaku.com/item/K0000903027/]]|Silver|ATX|140|fixed|x1|Enhance|Enhance ATX1500B|両面|ﾊｰﾌﾌﾞﾘｯｼﾞ LLC?|日本メーカー 105c|同期整流 + DC/DC|TAICON / Teapo 105c|unicon|n/a|不明|n/a|-|[[link:https://potato.5ch.net/test/read.cgi/jisaku/1308823441/989-990]]||||
+||玄人志向|[[KRPW-AK650W/88+:https://kakaku.com/item/K0000903028/]]|Gold|ATX|140|fixed|x1|Enhance|Enhance ATX1500B|両面|ﾊｰﾌﾌﾞﾘｯｼﾞ LLC?|日本メーカー 105c|同期整流 + DC/DC|? TAICON / Teapo 105c|? unicon|n/a|不明|n/a|80PLUS Silverとして販売|[[link:https://egg.5ch.net/test/read.cgi/jisaku/1408754411/477]]||||
+||玄人志向|[[KRPW-AK750W/88+:https://kakaku.com/item/K0000903027/]]|Gold|ATX|140|fixed|x1|Enhance|Enhance ATX1500B|両面|ﾊｰﾌﾌﾞﾘｯｼﾞ LLC?|日本メーカー 105c|同期整流 + DC/DC|TAICON / Teapo 105c|unicon|n/a|不明|n/a|80PLUS Silverとして販売|[[link:https://potato.5ch.net/test/read.cgi/jisaku/1308823441/989-990]]||||
 ||玄人志向|[[KRPW-BK450W/85+:https://kakaku.com/item/K0001026571/]]|Bronze|ATX|140|semi|x1|HEC|(&#x4d;asterWatt)|片面|ﾀﾞﾌﾞﾙﾌｫﾜｰﾄﾞ|日本メーカー 105c|ﾀﾞｲｵｰﾄﾞ整流 + DC/DC|chemi-con 105c|FPCAP|chemi-con 105c|DWPH EFS-12E12H|n/a|-|[[link:https://egg.5ch.net/test/read.cgi/jisaku/1544418614/717]]|[[link:https://www.amazon.co.jp/dp/B078HLJP9P#aplus_feature_div]]|||
 ||玄人志向|[[KRPW-BK550W/85+:https://kakaku.com/item/K0001026570/]]|Bronze|ATX|140|semi|x1|HEC|(&#x4d;asterWatt)|片面|ﾀﾞﾌﾞﾙﾌｫﾜｰﾄﾞ|日本メーカー 105c|ﾀﾞｲｵｰﾄﾞ整流 + DC/DC|? chemi-con 105c|? FPCAP|? chemi-con 105c|? DWPH EFS-12E12H|n/a|-||[[link:https://www.amazon.co.jp/dp/B078HLJP9P#aplus_feature_div]]|||
 ||玄人志向|[[KRPW-BK650W/85+:https://kakaku.com/item/K0001026569/]]|Bronze|ATX|140|semi|x1|HEC|(&#x4d;asterWatt)|片面|ﾀﾞﾌﾞﾙﾌｫﾜｰﾄﾞ|日本メーカー 105c|ﾀﾞｲｵｰﾄﾞ整流 + DC/DC|chemi-con 105c|FPCAP|chemi-con 105c|? DWPH EFS-12E12H|n/a|-|[[link:https://koshitatu.com/?p=12871]]|[[link:https://www.amazon.co.jp/dp/B078HLJP9P#aplus_feature_div]]|||
